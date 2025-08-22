@@ -1,0 +1,65 @@
+{
+  "date": "2025-08-10",
+  "formatted_date": "August 10, 2025",
+  "total_games": 5,
+  "season_breakdown": {
+    "preseason": 5
+  },
+  "games": [
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401773010",
+      "game_id": "401773010",
+      "date": "2025-08-10T00:00Z",
+      "week": 2,
+      "season_type": 1,
+      "away_team": "NYJ",
+      "home_team": "GB",
+      "matchup": "NYJ @ GB",
+      "season_type_name": "preseason"
+    },
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401774636",
+      "game_id": "401774636",
+      "date": "2025-08-10T00:00Z",
+      "week": 2,
+      "season_type": 1,
+      "away_team": "KC",
+      "home_team": "ARI",
+      "matchup": "KC @ ARI",
+      "season_type_name": "preseason"
+    },
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401776566",
+      "game_id": "401776566",
+      "date": "2025-08-10T00:30Z",
+      "week": 2,
+      "season_type": 1,
+      "away_team": "DEN",
+      "home_team": "SF",
+      "matchup": "DEN @ SF",
+      "season_type_name": "preseason"
+    },
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401776564",
+      "game_id": "401776564",
+      "date": "2025-08-10T17:00Z",
+      "week": 2,
+      "season_type": 1,
+      "away_team": "MIA",
+      "home_team": "CHI",
+      "matchup": "MIA @ CHI",
+      "season_type_name": "preseason"
+    },
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401773026",
+      "game_id": "401773026",
+      "date": "2025-08-10T20:00Z",
+      "week": 2,
+      "season_type": 1,
+      "away_team": "NO",
+      "home_team": "LAC",
+      "matchup": "NO @ LAC",
+      "season_type_name": "preseason"
+    }
+  ]
+}

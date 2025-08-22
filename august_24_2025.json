@@ -1,0 +1,32 @@
+{
+  "date": "2025-08-24",
+  "formatted_date": "August 24, 2025",
+  "total_games": 2,
+  "season_breakdown": {
+    "preseason": 2
+  },
+  "games": [
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401776567",
+      "game_id": "401776567",
+      "date": "2025-08-24T00:30Z",
+      "week": 4,
+      "season_type": 1,
+      "away_team": "LAC",
+      "home_team": "SF",
+      "matchup": "LAC @ SF",
+      "season_type_name": "preseason"
+    },
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401774590",
+      "game_id": "401774590",
+      "date": "2025-08-24T02:00Z",
+      "week": 4,
+      "season_type": 1,
+      "away_team": "LV",
+      "home_team": "ARI",
+      "matchup": "LV @ ARI",
+      "season_type_name": "preseason"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "date": "2025-12-21",
+  "formatted_date": "December 21, 2025",
+  "total_games": 11,
+  "season_breakdown": {
+    "regular_season": 11
+  },
+  "games": [
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772802",
+      "game_id": "401772802",
+      "date": "2025-12-21T18:00Z",
+      "week": 16,
+      "season_type": 2,
+      "away_team": "BUF",
+      "home_team": "CLE",
+      "matchup": "BUF @ CLE",
+      "season_type_name": "regular_season"
+    },
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772910",
+      "game_id": "401772910",
+      "date": "2025-12-21T18:00Z",
+      "week": 16,
+      "season_type": 2,
+      "away_team": "LAC",
+      "home_team": "DAL",
+      "matchup": "LAC @ DAL",
+      "season_type_name": "regular_season"
+    },
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772803",
+      "game_id": "401772803",
+      "date": "2025-12-21T18:00Z",
+      "week": 16,
+      "season_type": 2,
+      "away_team": "KC",
+      "home_team": "TEN",
+      "matchup": "KC @ TEN",
+      "season_type_name": "regular_season"
+    },
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772801",
+      "game_id": "401772801",
+      "date": "2025-12-21T18:00Z",
+      "week": 16,
+      "season_type": 2,
+      "away_team": "NYJ",
+      "home_team": "NO",
+      "matchup": "NYJ @ NO",
+      "season_type_name": "regular_season"
+    },
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772911",
+      "game_id": "401772911",
+      "date": "2025-12-21T18:00Z",
+      "week": 16,
+      "season_type": 2,
+      "away_team": "MIN",
+      "home_team": "NYG",
+      "matchup": "MIN @ NYG",
+      "season_type_name": "regular_season"
+    },
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772912",
+      "game_id": "401772912",
+      "date": "2025-12-21T18:00Z",
+      "week": 16,
+      "season_type": 2,
+      "away_team": "TB",
+      "home_team": "CAR",
+      "matchup": "TB @ CAR",
+      "season_type_name": "regular_season"
+    },
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772804",
+      "game_id": "401772804",
+      "date": "2025-12-21T18:00Z",
+      "week": 16,
+      "season_type": 2,
+      "away_team": "NE",
+      "home_team": "BAL",
+      "matchup": "NE @ BAL",
+      "season_type_name": "regular_season"
+    },
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772913",
+      "game_id": "401772913",
+      "date": "2025-12-21T21:05Z",
+      "week": 16,
+      "season_type": 2,
+      "away_team": "JAX",
+      "home_team": "DEN",
+      "matchup": "JAX @ DEN",
+      "season_type_name": "regular_season"
+    },
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772914",
+      "game_id": "401772914",
+      "date": "2025-12-21T21:05Z",
+      "week": 16,
+      "season_type": 2,
+      "away_team": "ATL",
+      "home_team": "ARI",
+      "matchup": "ATL @ ARI",
+      "season_type_name": "regular_season"
+    },
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772806",
+      "game_id": "401772806",
+      "date": "2025-12-21T21:25Z",
+      "week": 16,
+      "season_type": 2,
+      "away_team": "PIT",
+      "home_team": "DET",
+      "matchup": "PIT @ DET",
+      "season_type_name": "regular_season"
+    },
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772805",
+      "game_id": "401772805",
+      "date": "2025-12-21T21:25Z",
+      "week": 16,
+      "season_type": 2,
+      "away_team": "LV",
+      "home_team": "HOU",
+      "matchup": "LV @ HOU",
+      "season_type_name": "regular_season"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "2025-09-06",
+  "formatted_date": "September 06, 2025",
+  "total_games": 1,
+  "season_breakdown": {
+    "regular_season": 1
+  },
+  "games": [
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772714",
+      "game_id": "401772714",
+      "date": "2025-09-06T00:00Z",
+      "week": 1,
+      "season_type": 2,
+      "away_team": "KC",
+      "home_team": "LAC",
+      "matchup": "KC @ LAC",
+      "season_type_name": "regular_season"
+    }
+  ]
+}

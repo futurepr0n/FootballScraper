@@ -1,0 +1,21 @@
+{
+  "date": "2025-11-07",
+  "formatted_date": "November 07, 2025",
+  "total_games": 1,
+  "season_breakdown": {
+    "regular_season": 1
+  },
+  "games": [
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772944",
+      "game_id": "401772944",
+      "date": "2025-11-07T01:15Z",
+      "week": 10,
+      "season_type": 2,
+      "away_team": "LV",
+      "home_team": "DEN",
+      "matchup": "LV @ DEN",
+      "season_type_name": "regular_season"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2025-08-08",
+  "formatted_date": "August 08, 2025",
+  "total_games": 4,
+  "season_breakdown": {
+    "preseason": 4
+  },
+  "games": [
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401774568",
+      "game_id": "401774568",
+      "date": "2025-08-08T02:00Z",
+      "week": 2,
+      "season_type": 1,
+      "away_team": "LV",
+      "home_team": "SEA",
+      "matchup": "LV @ SEA",
+      "season_type_name": "preseason"
+    },
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401773016",
+      "game_id": "401773016",
+      "date": "2025-08-08T23:00Z",
+      "week": 2,
+      "season_type": 1,
+      "away_team": "DET",
+      "home_team": "ATL",
+      "matchup": "DET @ ATL",
+      "season_type_name": "preseason"
+    },
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401773018",
+      "game_id": "401773018",
+      "date": "2025-08-08T23:00Z",
+      "week": 2,
+      "season_type": 1,
+      "away_team": "CLE",
+      "home_team": "CAR",
+      "matchup": "CLE @ CAR",
+      "season_type_name": "preseason"
+    },
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772996",
+      "game_id": "401772996",
+      "date": "2025-08-08T23:30Z",
+      "week": 2,
+      "season_type": 1,
+      "away_team": "WSH",
+      "home_team": "NE",
+      "matchup": "WSH @ NE",
+      "season_type_name": "preseason"
+    }
+  ]
+}

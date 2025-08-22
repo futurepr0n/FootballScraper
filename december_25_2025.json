@@ -1,0 +1,32 @@
+{
+  "date": "2025-12-25",
+  "formatted_date": "December 25, 2025",
+  "total_games": 2,
+  "season_breakdown": {
+    "regular_season": 2
+  },
+  "games": [
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772710",
+      "game_id": "401772710",
+      "date": "2025-12-25T18:00Z",
+      "week": 17,
+      "season_type": 2,
+      "away_team": "DAL",
+      "home_team": "WSH",
+      "matchup": "DAL @ WSH",
+      "season_type_name": "regular_season"
+    },
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772711",
+      "game_id": "401772711",
+      "date": "2025-12-25T21:30Z",
+      "week": 17,
+      "season_type": 2,
+      "away_team": "DET",
+      "home_team": "MIN",
+      "matchup": "DET @ MIN",
+      "season_type_name": "regular_season"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "date": "2025-01-12",
+  "formatted_date": "January 12, 2025",
+  "total_games": 3,
+  "season_breakdown": {
+    "playoffs": 3
+  },
+  "games": [
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401671879",
+      "game_id": "401671879",
+      "date": "2025-01-12T01:00Z",
+      "week": 1,
+      "season_type": 3,
+      "away_team": "PIT",
+      "home_team": "BAL",
+      "matchup": "PIT @ BAL",
+      "season_type_name": "playoffs"
+    },
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401671881",
+      "game_id": "401671881",
+      "date": "2025-01-12T18:00Z",
+      "week": 1,
+      "season_type": 3,
+      "away_team": "DEN",
+      "home_team": "BUF",
+      "matchup": "DEN @ BUF",
+      "season_type_name": "playoffs"
+    },
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401671880",
+      "game_id": "401671880",
+      "date": "2025-01-12T21:30Z",
+      "week": 1,
+      "season_type": 3,
+      "away_team": "GB",
+      "home_team": "PHI",
+      "matchup": "GB @ PHI",
+      "season_type_name": "playoffs"
+    }
+  ]
+}

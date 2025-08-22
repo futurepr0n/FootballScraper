@@ -1,0 +1,32 @@
+{
+  "date": "2025-08-07",
+  "formatted_date": "August 07, 2025",
+  "total_games": 2,
+  "season_breakdown": {
+    "preseason": 2
+  },
+  "games": [
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401773001",
+      "game_id": "401773001",
+      "date": "2025-08-07T23:00Z",
+      "week": 2,
+      "season_type": 1,
+      "away_team": "IND",
+      "home_team": "BAL",
+      "matchup": "IND @ BAL",
+      "season_type_name": "preseason"
+    },
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401773005",
+      "game_id": "401773005",
+      "date": "2025-08-07T23:30Z",
+      "week": 2,
+      "season_type": 1,
+      "away_team": "CIN",
+      "home_team": "PHI",
+      "matchup": "CIN @ PHI",
+      "season_type_name": "preseason"
+    }
+  ]
+}

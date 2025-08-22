@@ -1,0 +1,32 @@
+{
+  "date": "2025-01-26",
+  "formatted_date": "January 26, 2025",
+  "total_games": 2,
+  "season_breakdown": {
+    "playoffs": 2
+  },
+  "games": [
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401671888",
+      "game_id": "401671888",
+      "date": "2025-01-26T20:00Z",
+      "week": 3,
+      "season_type": 3,
+      "away_team": "WSH",
+      "home_team": "PHI",
+      "matchup": "WSH @ PHI",
+      "season_type_name": "playoffs"
+    },
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401671887",
+      "game_id": "401671887",
+      "date": "2025-01-26T23:30Z",
+      "week": 3,
+      "season_type": 3,
+      "away_team": "BUF",
+      "home_team": "KC",
+      "matchup": "BUF @ KC",
+      "season_type_name": "playoffs"
+    }
+  ]
+}

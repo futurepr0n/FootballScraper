@@ -1,0 +1,21 @@
+{
+  "date": "2025-08-18",
+  "formatted_date": "August 18, 2025",
+  "total_games": 1,
+  "season_breakdown": {
+    "preseason": 1
+  },
+  "games": [
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772972",
+      "game_id": "401772972",
+      "date": "2025-08-18T00:00Z",
+      "week": 3,
+      "season_type": 1,
+      "away_team": "BUF",
+      "home_team": "CHI",
+      "matchup": "BUF @ CHI",
+      "season_type_name": "preseason"
+    }
+  ]
+}

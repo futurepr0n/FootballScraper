@@ -1,0 +1,32 @@
+{
+  "date": "2025-10-13",
+  "formatted_date": "October 13, 2025",
+  "total_games": 2,
+  "season_breakdown": {
+    "regular_season": 2
+  },
+  "games": [
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772923",
+      "game_id": "401772923",
+      "date": "2025-10-13T00:20Z",
+      "week": 6,
+      "season_type": 2,
+      "away_team": "DET",
+      "home_team": "KC",
+      "matchup": "DET @ KC",
+      "season_type_name": "regular_season"
+    },
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772815",
+      "game_id": "401772815",
+      "date": "2025-10-13T23:15Z",
+      "week": 6,
+      "season_type": 2,
+      "away_team": "BUF",
+      "home_team": "ATL",
+      "matchup": "BUF @ ATL",
+      "season_type_name": "regular_season"
+    }
+  ]
+}

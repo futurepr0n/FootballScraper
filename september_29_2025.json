@@ -1,0 +1,32 @@
+{
+  "date": "2025-09-29",
+  "formatted_date": "September 29, 2025",
+  "total_games": 2,
+  "season_breakdown": {
+    "regular_season": 2
+  },
+  "games": [
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772921",
+      "game_id": "401772921",
+      "date": "2025-09-29T00:20Z",
+      "week": 4,
+      "season_type": 2,
+      "away_team": "GB",
+      "home_team": "DAL",
+      "matchup": "GB @ DAL",
+      "season_type_name": "regular_season"
+    },
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772813",
+      "game_id": "401772813",
+      "date": "2025-09-29T23:15Z",
+      "week": 4,
+      "season_type": 2,
+      "away_team": "NYJ",
+      "home_team": "MIA",
+      "matchup": "NYJ @ MIA",
+      "season_type_name": "regular_season"
+    }
+  ]
+}

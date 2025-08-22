@@ -1,0 +1,76 @@
+{
+  "date": "2025-12-28",
+  "formatted_date": "December 28, 2025",
+  "total_games": 6,
+  "season_breakdown": {
+    "regular_season": 6
+  },
+  "games": [
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772807",
+      "game_id": "401772807",
+      "date": "2025-12-28T18:00Z",
+      "week": 17,
+      "season_type": 2,
+      "away_team": "PIT",
+      "home_team": "CLE",
+      "matchup": "PIT @ CLE",
+      "season_type_name": "regular_season"
+    },
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772809",
+      "game_id": "401772809",
+      "date": "2025-12-28T18:00Z",
+      "week": 17,
+      "season_type": 2,
+      "away_team": "NO",
+      "home_team": "TEN",
+      "matchup": "NO @ TEN",
+      "season_type_name": "regular_season"
+    },
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772915",
+      "game_id": "401772915",
+      "date": "2025-12-28T18:00Z",
+      "week": 17,
+      "season_type": 2,
+      "away_team": "JAX",
+      "home_team": "IND",
+      "matchup": "JAX @ IND",
+      "season_type_name": "regular_season"
+    },
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772916",
+      "game_id": "401772916",
+      "date": "2025-12-28T18:00Z",
+      "week": 17,
+      "season_type": 2,
+      "away_team": "TB",
+      "home_team": "MIA",
+      "matchup": "TB @ MIA",
+      "season_type_name": "regular_season"
+    },
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772808",
+      "game_id": "401772808",
+      "date": "2025-12-28T18:00Z",
+      "week": 17,
+      "season_type": 2,
+      "away_team": "NE",
+      "home_team": "NYJ",
+      "matchup": "NE @ NYJ",
+      "season_type_name": "regular_season"
+    },
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772917",
+      "game_id": "401772917",
+      "date": "2025-12-28T21:25Z",
+      "week": 17,
+      "season_type": 2,
+      "away_team": "PHI",
+      "home_team": "BUF",
+      "matchup": "PHI @ BUF",
+      "season_type_name": "regular_season"
+    }
+  ]
+}

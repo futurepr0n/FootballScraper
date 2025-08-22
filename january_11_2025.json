@@ -1,0 +1,21 @@
+{
+  "date": "2025-01-11",
+  "formatted_date": "January 11, 2025",
+  "total_games": 1,
+  "season_breakdown": {
+    "playoffs": 1
+  },
+  "games": [
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401671878",
+      "game_id": "401671878",
+      "date": "2025-01-11T21:30Z",
+      "week": 1,
+      "season_type": 3,
+      "away_team": "LAC",
+      "home_team": "HOU",
+      "matchup": "LAC @ HOU",
+      "season_type_name": "playoffs"
+    }
+  ]
+}

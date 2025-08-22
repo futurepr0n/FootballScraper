@@ -1,0 +1,21 @@
+{
+  "date": "2025-09-22",
+  "formatted_date": "September 22, 2025",
+  "total_games": 1,
+  "season_breakdown": {
+    "regular_season": 1
+  },
+  "games": [
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772920",
+      "game_id": "401772920",
+      "date": "2025-09-22T00:20Z",
+      "week": 3,
+      "season_type": 2,
+      "away_team": "KC",
+      "home_team": "NYG",
+      "matchup": "KC @ NYG",
+      "season_type_name": "regular_season"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "2025-12-05",
+  "formatted_date": "December 05, 2025",
+  "total_games": 1,
+  "season_breakdown": {
+    "regular_season": 1
+  },
+  "games": [
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772947",
+      "game_id": "401772947",
+      "date": "2025-12-05T01:15Z",
+      "week": 14,
+      "season_type": 2,
+      "away_team": "DAL",
+      "home_team": "DET",
+      "matchup": "DAL @ DET",
+      "season_type_name": "regular_season"
+    }
+  ]
+}

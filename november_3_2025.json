@@ -1,0 +1,21 @@
+{
+  "date": "2025-11-03",
+  "formatted_date": "November 03, 2025",
+  "total_games": 1,
+  "season_breakdown": {
+    "regular_season": 1
+  },
+  "games": [
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772926",
+      "game_id": "401772926",
+      "date": "2025-11-03T01:20Z",
+      "week": 9,
+      "season_type": 2,
+      "away_team": "SEA",
+      "home_team": "WSH",
+      "matchup": "SEA @ WSH",
+      "season_type_name": "regular_season"
+    }
+  ]
+}

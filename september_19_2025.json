@@ -1,0 +1,21 @@
+{
+  "date": "2025-09-19",
+  "formatted_date": "September 19, 2025",
+  "total_games": 1,
+  "season_breakdown": {
+    "regular_season": 1
+  },
+  "games": [
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772937",
+      "game_id": "401772937",
+      "date": "2025-09-19T00:15Z",
+      "week": 3,
+      "season_type": 2,
+      "away_team": "MIA",
+      "home_team": "BUF",
+      "matchup": "MIA @ BUF",
+      "season_type_name": "regular_season"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "2025-01-06",
+  "formatted_date": "January 06, 2025",
+  "total_games": 1,
+  "season_breakdown": {
+    "regular_season": 1
+  },
+  "games": [
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401671843",
+      "game_id": "401671843",
+      "date": "2025-01-06T01:20Z",
+      "week": 18,
+      "season_type": 2,
+      "away_team": "MIN",
+      "home_team": "DET",
+      "matchup": "MIN @ DET",
+      "season_type_name": "regular_season"
+    }
+  ]
+}

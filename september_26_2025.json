@@ -1,0 +1,21 @@
+{
+  "date": "2025-09-26",
+  "formatted_date": "September 26, 2025",
+  "total_games": 1,
+  "season_breakdown": {
+    "regular_season": 1
+  },
+  "games": [
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772938",
+      "game_id": "401772938",
+      "date": "2025-09-26T00:15Z",
+      "week": 4,
+      "season_type": 2,
+      "away_team": "SEA",
+      "home_team": "ARI",
+      "matchup": "SEA @ ARI",
+      "season_type_name": "regular_season"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "date": "2025-08-09",
+  "formatted_date": "August 09, 2025",
+  "total_games": 5,
+  "season_breakdown": {
+    "preseason": 5
+  },
+  "games": [
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401776263",
+      "game_id": "401776263",
+      "date": "2025-08-09T17:00Z",
+      "week": 2,
+      "season_type": 1,
+      "away_team": "NYG",
+      "home_team": "BUF",
+      "matchup": "NYG @ BUF",
+      "season_type_name": "preseason"
+    },
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401773012",
+      "game_id": "401773012",
+      "date": "2025-08-09T20:00Z",
+      "week": 2,
+      "season_type": 1,
+      "away_team": "HOU",
+      "home_team": "MIN",
+      "matchup": "HOU @ MIN",
+      "season_type_name": "preseason"
+    },
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401773020",
+      "game_id": "401773020",
+      "date": "2025-08-09T23:00Z",
+      "week": 2,
+      "season_type": 1,
+      "away_team": "DAL",
+      "home_team": "LAR",
+      "matchup": "DAL @ LAR",
+      "season_type_name": "preseason"
+    },
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401773002",
+      "game_id": "401773002",
+      "date": "2025-08-09T23:00Z",
+      "week": 2,
+      "season_type": 1,
+      "away_team": "PIT",
+      "home_team": "JAX",
+      "matchup": "PIT @ JAX",
+      "season_type_name": "preseason"
+    },
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401774029",
+      "game_id": "401774029",
+      "date": "2025-08-09T23:30Z",
+      "week": 2,
+      "season_type": 1,
+      "away_team": "TEN",
+      "home_team": "TB",
+      "matchup": "TEN @ TB",
+      "season_type_name": "preseason"
+    }
+  ]
+}

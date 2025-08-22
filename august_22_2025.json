@@ -1,0 +1,32 @@
+{
+  "date": "2025-08-22",
+  "formatted_date": "August 22, 2025",
+  "total_games": 2,
+  "season_breakdown": {
+    "preseason": 2
+  },
+  "games": [
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772974",
+      "game_id": "401772974",
+      "date": "2025-08-22T00:00Z",
+      "week": 4,
+      "season_type": 1,
+      "away_team": "NE",
+      "home_team": "NYG",
+      "matchup": "NE @ NYG",
+      "season_type_name": "preseason"
+    },
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772997",
+      "game_id": "401772997",
+      "date": "2025-08-22T23:30Z",
+      "week": 4,
+      "season_type": 1,
+      "away_team": "PHI",
+      "home_team": "NYJ",
+      "matchup": "PHI @ NYJ",
+      "season_type_name": "preseason"
+    }
+  ]
+}
