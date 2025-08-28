@@ -1,0 +1,71 @@
+# NFL Preseason Week 4, 2025 Game URLs
+# Format: One ESPN game URL per line
+# Use: python process_nfl_game_file.py preseason_week4_2025.txt
+
+# 33 games scheduled for this week
+# LV @ ARI - 2025-08-24T02:00Z
+https://www.espn.com/nfl/game/_/gameId/401774590
+# AFC @ NFC - 2025-02-02T20:00Z
+https://www.espn.com/nfl/game/_/gameId/401701113
+# PIT @ CAR - 2025-08-21T23:00Z
+https://www.espn.com/nfl/game/_/gameId/401773019
+# NE @ NYG - 2025-08-22T00:00Z
+https://www.espn.com/nfl/game/_/gameId/401772974
+# PHI @ NYJ - 2025-08-22T23:30Z
+https://www.espn.com/nfl/game/_/gameId/401772997
+# ATL @ DAL - 2025-08-23T00:00Z
+https://www.espn.com/nfl/game/_/gameId/401773008
+# MIN @ TEN - 2025-08-23T00:00Z
+https://www.espn.com/nfl/game/_/gameId/401772975
+# CHI @ KC - 2025-08-23T00:20Z
+https://www.espn.com/nfl/game/_/gameId/401773004
+# BAL @ WSH - 2025-08-23T16:00Z
+https://www.espn.com/nfl/game/_/gameId/401777124
+# IND @ CIN - 2025-08-23T17:00Z
+https://www.espn.com/nfl/game/_/gameId/401772998
+# LAR @ CLE - 2025-08-23T17:00Z
+https://www.espn.com/nfl/game/_/gameId/401772999
+# HOU @ DET - 2025-08-23T17:00Z
+https://www.espn.com/nfl/game/_/gameId/401776265
+# DEN @ NO - 2025-08-23T17:00Z
+https://www.espn.com/nfl/game/_/gameId/401773015
+# SEA @ GB - 2025-08-23T20:00Z
+https://www.espn.com/nfl/game/_/gameId/401773011
+# JAX @ MIA - 2025-08-23T23:00Z
+https://www.espn.com/nfl/game/_/gameId/401776565
+# BUF @ TB - 2025-08-23T23:30Z
+https://www.espn.com/nfl/game/_/gameId/401774030
+# LAC @ SF - 2025-08-24T00:30Z
+https://www.espn.com/nfl/game/_/gameId/401776567
+# SEA @ ARI - 2025-09-26T00:15Z
+https://www.espn.com/nfl/game/_/gameId/401772938
+# MIN @ PIT - 2025-09-28T13:30Z
+https://www.espn.com/nfl/game/_/gameId/401772632
+# WSH @ ATL - 2025-09-28T17:00Z
+https://www.espn.com/nfl/game/_/gameId/401772739
+# NO @ BUF - 2025-09-28T17:00Z
+https://www.espn.com/nfl/game/_/gameId/401772740
+# CLE @ DET - 2025-09-28T17:00Z
+https://www.espn.com/nfl/game/_/gameId/401772846
+# CAR @ NE - 2025-09-28T17:00Z
+https://www.espn.com/nfl/game/_/gameId/401772847
+# LAC @ NYG - 2025-09-28T17:00Z
+https://www.espn.com/nfl/game/_/gameId/401772737
+# PHI @ TB - 2025-09-28T17:00Z
+https://www.espn.com/nfl/game/_/gameId/401772845
+# TEN @ HOU - 2025-09-28T17:00Z
+https://www.espn.com/nfl/game/_/gameId/401772738
+# IND @ LAR - 2025-09-28T20:05Z
+https://www.espn.com/nfl/game/_/gameId/401772849
+# JAX @ SF - 2025-09-28T20:05Z
+https://www.espn.com/nfl/game/_/gameId/401772848
+# BAL @ KC - 2025-09-28T20:25Z
+https://www.espn.com/nfl/game/_/gameId/401772741
+# CHI @ LV - 2025-09-28T20:25Z
+https://www.espn.com/nfl/game/_/gameId/401772742
+# GB @ DAL - 2025-09-29T00:20Z
+https://www.espn.com/nfl/game/_/gameId/401772921
+# NYJ @ MIA - 2025-09-29T23:15Z
+https://www.espn.com/nfl/game/_/gameId/401772813
+# CIN @ DEN - 2025-09-30T00:15Z
+https://www.espn.com/nfl/game/_/gameId/401772716

@@ -1,0 +1,35 @@
+# NFL Preseason Week 5, 2025 Game URLs
+# Format: One ESPN game URL per line
+# Use: python process_nfl_game_file.py preseason_week5_2025.txt
+
+# 15 games scheduled for this week
+# KC @ PHI - 2025-02-09T23:30Z
+https://www.espn.com/nfl/game/_/gameId/401671889
+# SF @ LAR - 2025-10-03T00:15Z
+https://www.espn.com/nfl/game/_/gameId/401772939
+# MIN @ CLE - 2025-10-05T13:30Z
+https://www.espn.com/nfl/game/_/gameId/401772633
+# LV @ IND - 2025-10-05T17:00Z
+https://www.espn.com/nfl/game/_/gameId/401772851
+# NYG @ NO - 2025-10-05T17:00Z
+https://www.espn.com/nfl/game/_/gameId/401772744
+# DAL @ NYJ - 2025-10-05T17:00Z
+https://www.espn.com/nfl/game/_/gameId/401772850
+# DEN @ PHI - 2025-10-05T17:00Z
+https://www.espn.com/nfl/game/_/gameId/401772745
+# MIA @ CAR - 2025-10-05T17:00Z
+https://www.espn.com/nfl/game/_/gameId/401772852
+# HOU @ BAL - 2025-10-05T17:00Z
+https://www.espn.com/nfl/game/_/gameId/401772743
+# TEN @ ARI - 2025-10-05T20:05Z
+https://www.espn.com/nfl/game/_/gameId/401772747
+# TB @ SEA - 2025-10-05T20:05Z
+https://www.espn.com/nfl/game/_/gameId/401772746
+# DET @ CIN - 2025-10-05T20:25Z
+https://www.espn.com/nfl/game/_/gameId/401772854
+# WSH @ LAC - 2025-10-05T20:25Z
+https://www.espn.com/nfl/game/_/gameId/401772853
+# NE @ BUF - 2025-10-06T00:20Z
+https://www.espn.com/nfl/game/_/gameId/401772922
+# KC @ JAX - 2025-10-07T00:15Z
+https://www.espn.com/nfl/game/_/gameId/401772814

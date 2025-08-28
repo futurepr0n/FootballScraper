@@ -1,0 +1,51 @@
+# NFL Postseason Week 1, 2025 Game URLs
+# Format: One ESPN game URL per line
+# Use: python process_nfl_game_file.py playoffs_week1_2025.txt
+
+# 23 games scheduled for this week
+# LAC @ HOU - 2025-01-11T21:30Z
+https://www.espn.com/nfl/game/_/gameId/401671878
+# PIT @ BAL - 2025-01-12T01:00Z
+https://www.espn.com/nfl/game/_/gameId/401671879
+# DEN @ BUF - 2025-01-12T18:00Z
+https://www.espn.com/nfl/game/_/gameId/401671881
+# GB @ PHI - 2025-01-12T21:30Z
+https://www.espn.com/nfl/game/_/gameId/401671880
+# WSH @ TB - 2025-01-13T01:00Z
+https://www.espn.com/nfl/game/_/gameId/401671883
+# MIN @ LAR - 2025-01-14T01:00Z
+https://www.espn.com/nfl/game/_/gameId/401671882
+# LAC @ DET - 2025-08-01T00:00Z
+https://www.espn.com/nfl/game/_/gameId/401772971
+# DAL @ PHI - 2025-09-05T00:20Z
+https://www.espn.com/nfl/game/_/gameId/401772510
+# KC @ LAC - 2025-09-06T00:00Z
+https://www.espn.com/nfl/game/_/gameId/401772714
+# TB @ ATL - 2025-09-07T17:00Z
+https://www.espn.com/nfl/game/_/gameId/401772830
+# CIN @ CLE - 2025-09-07T17:00Z
+https://www.espn.com/nfl/game/_/gameId/401772829
+# MIA @ IND - 2025-09-07T17:00Z
+https://www.espn.com/nfl/game/_/gameId/401772719
+# LV @ NE - 2025-09-07T17:00Z
+https://www.espn.com/nfl/game/_/gameId/401772720
+# ARI @ NO - 2025-09-07T17:00Z
+https://www.espn.com/nfl/game/_/gameId/401772718
+# PIT @ NYJ - 2025-09-07T17:00Z
+https://www.espn.com/nfl/game/_/gameId/401772721
+# NYG @ WSH - 2025-09-07T17:00Z
+https://www.espn.com/nfl/game/_/gameId/401772827
+# CAR @ JAX - 2025-09-07T17:00Z
+https://www.espn.com/nfl/game/_/gameId/401772828
+# TEN @ DEN - 2025-09-07T20:05Z
+https://www.espn.com/nfl/game/_/gameId/401772832
+# SF @ SEA - 2025-09-07T20:05Z
+https://www.espn.com/nfl/game/_/gameId/401772831
+# DET @ GB - 2025-09-07T20:25Z
+https://www.espn.com/nfl/game/_/gameId/401772722
+# HOU @ LAR - 2025-09-07T20:25Z
+https://www.espn.com/nfl/game/_/gameId/401772723
+# BAL @ BUF - 2025-09-08T00:20Z
+https://www.espn.com/nfl/game/_/gameId/401772918
+# MIN @ CHI - 2025-09-09T00:15Z
+https://www.espn.com/nfl/game/_/gameId/401772810

@@ -1,0 +1,37 @@
+# NFL Regular Week 18, 2025 Game URLs
+# Format: One ESPN game URL per line
+# Use: python process_nfl_game_file.py regular_week18_2025.txt
+
+# 16 games scheduled for this week
+# CLE @ BAL - 2025-01-04T21:30Z
+https://www.espn.com/nfl/game/_/gameId/401671834
+# CIN @ PIT - 2025-01-05T01:00Z
+https://www.espn.com/nfl/game/_/gameId/401671836
+# CAR @ ATL - 2025-01-05T18:00Z
+https://www.espn.com/nfl/game/_/gameId/401671827
+# WSH @ DAL - 2025-01-05T18:00Z
+https://www.espn.com/nfl/game/_/gameId/401671840
+# CHI @ GB - 2025-01-05T18:00Z
+https://www.espn.com/nfl/game/_/gameId/401671844
+# HOU @ TEN - 2025-01-05T18:00Z
+https://www.espn.com/nfl/game/_/gameId/401671826
+# JAX @ IND - 2025-01-05T18:00Z
+https://www.espn.com/nfl/game/_/gameId/401671837
+# BUF @ NE - 2025-01-05T18:00Z
+https://www.espn.com/nfl/game/_/gameId/401671831
+# NYG @ PHI - 2025-01-05T18:00Z
+https://www.espn.com/nfl/game/_/gameId/401671841
+# NO @ TB - 2025-01-05T18:00Z
+https://www.espn.com/nfl/game/_/gameId/401671828
+# KC @ DEN - 2025-01-05T21:25Z
+https://www.espn.com/nfl/game/_/gameId/401671838
+# LAC @ LV - 2025-01-05T21:25Z
+https://www.espn.com/nfl/game/_/gameId/401671839
+# SEA @ LAR - 2025-01-05T21:25Z
+https://www.espn.com/nfl/game/_/gameId/401671830
+# MIA @ NYJ - 2025-01-05T21:25Z
+https://www.espn.com/nfl/game/_/gameId/401671833
+# SF @ ARI - 2025-01-05T21:25Z
+https://www.espn.com/nfl/game/_/gameId/401671845
+# MIN @ DET - 2025-01-06T01:20Z
+https://www.espn.com/nfl/game/_/gameId/401671843

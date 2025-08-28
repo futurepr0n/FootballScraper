@@ -1,0 +1,159 @@
+{
+  "season_type": "regular",
+  "week": 6,
+  "year": 2025,
+  "total_games": 15,
+  "generated_date": "2025-08-24T00:33:54.729736",
+  "games": [
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772940",
+      "game_id": "401772940",
+      "date": "2025-10-10T00:15Z",
+      "week": 6,
+      "season_type": 2,
+      "away_team": "PHI",
+      "home_team": "NYG",
+      "matchup": "PHI @ NYG"
+    },
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772634",
+      "game_id": "401772634",
+      "date": "2025-10-12T13:30Z",
+      "week": 6,
+      "season_type": 2,
+      "away_team": "DEN",
+      "home_team": "NYJ",
+      "matchup": "DEN @ NYJ"
+    },
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772856",
+      "game_id": "401772856",
+      "date": "2025-10-12T17:00Z",
+      "week": 6,
+      "season_type": 2,
+      "away_team": "ARI",
+      "home_team": "IND",
+      "matchup": "ARI @ IND"
+    },
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772750",
+      "game_id": "401772750",
+      "date": "2025-10-12T17:00Z",
+      "week": 6,
+      "season_type": 2,
+      "away_team": "LAC",
+      "home_team": "MIA",
+      "matchup": "LAC @ MIA"
+    },
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772748",
+      "game_id": "401772748",
+      "date": "2025-10-12T17:00Z",
+      "week": 6,
+      "season_type": 2,
+      "away_team": "CLE",
+      "home_team": "PIT",
+      "matchup": "CLE @ PIT"
+    },
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772749",
+      "game_id": "401772749",
+      "date": "2025-10-12T17:00Z",
+      "week": 6,
+      "season_type": 2,
+      "away_team": "SF",
+      "home_team": "TB",
+      "matchup": "SF @ TB"
+    },
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772858",
+      "game_id": "401772858",
+      "date": "2025-10-12T17:00Z",
+      "week": 6,
+      "season_type": 2,
+      "away_team": "DAL",
+      "home_team": "CAR",
+      "matchup": "DAL @ CAR"
+    },
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772857",
+      "game_id": "401772857",
+      "date": "2025-10-12T17:00Z",
+      "week": 6,
+      "season_type": 2,
+      "away_team": "SEA",
+      "home_team": "JAX",
+      "matchup": "SEA @ JAX"
+    },
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772855",
+      "game_id": "401772855",
+      "date": "2025-10-12T17:00Z",
+      "week": 6,
+      "season_type": 2,
+      "away_team": "LAR",
+      "home_team": "BAL",
+      "matchup": "LAR @ BAL"
+    },
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772859",
+      "game_id": "401772859",
+      "date": "2025-10-12T20:05Z",
+      "week": 6,
+      "season_type": 2,
+      "away_team": "TEN",
+      "home_team": "LV",
+      "matchup": "TEN @ LV"
+    },
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772752",
+      "game_id": "401772752",
+      "date": "2025-10-12T20:25Z",
+      "week": 6,
+      "season_type": 2,
+      "away_team": "CIN",
+      "home_team": "GB",
+      "matchup": "CIN @ GB"
+    },
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772751",
+      "game_id": "401772751",
+      "date": "2025-10-12T20:25Z",
+      "week": 6,
+      "season_type": 2,
+      "away_team": "NE",
+      "home_team": "NO",
+      "matchup": "NE @ NO"
+    },
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772923",
+      "game_id": "401772923",
+      "date": "2025-10-13T00:20Z",
+      "week": 6,
+      "season_type": 2,
+      "away_team": "DET",
+      "home_team": "KC",
+      "matchup": "DET @ KC"
+    },
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772815",
+      "game_id": "401772815",
+      "date": "2025-10-13T23:15Z",
+      "week": 6,
+      "season_type": 2,
+      "away_team": "BUF",
+      "home_team": "ATL",
+      "matchup": "BUF @ ATL"
+    },
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772717",
+      "game_id": "401772717",
+      "date": "2025-10-14T00:15Z",
+      "week": 6,
+      "season_type": 2,
+      "away_team": "CHI",
+      "home_team": "WSH",
+      "matchup": "CHI @ WSH"
+    }
+  ]
+}

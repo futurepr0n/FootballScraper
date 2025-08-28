@@ -1,0 +1,31 @@
+# NFL Postseason Week 8, 2025 Game URLs
+# Format: One ESPN game URL per line
+# Use: python process_nfl_game_file.py playoffs_week8_2025.txt
+
+# 13 games scheduled for this week
+# MIN @ LAC - 2025-10-24T00:15Z
+https://www.espn.com/nfl/game/_/gameId/401772942
+# MIA @ ATL - 2025-10-26T17:00Z
+https://www.espn.com/nfl/game/_/gameId/401772760
+# NYJ @ CIN - 2025-10-26T17:00Z
+https://www.espn.com/nfl/game/_/gameId/401772758
+# CLE @ NE - 2025-10-26T17:00Z
+https://www.espn.com/nfl/game/_/gameId/401772868
+# NYG @ PHI - 2025-10-26T17:00Z
+https://www.espn.com/nfl/game/_/gameId/401772867
+# BUF @ CAR - 2025-10-26T17:00Z
+https://www.espn.com/nfl/game/_/gameId/401772865
+# CHI @ BAL - 2025-10-26T17:00Z
+https://www.espn.com/nfl/game/_/gameId/401772759
+# SF @ HOU - 2025-10-26T17:00Z
+https://www.espn.com/nfl/game/_/gameId/401772866
+# TB @ NO - 2025-10-26T20:05Z
+https://www.espn.com/nfl/game/_/gameId/401772869
+# DAL @ DEN - 2025-10-26T20:25Z
+https://www.espn.com/nfl/game/_/gameId/401772762
+# TEN @ IND - 2025-10-26T20:25Z
+https://www.espn.com/nfl/game/_/gameId/401772761
+# GB @ PIT - 2025-10-27T00:20Z
+https://www.espn.com/nfl/game/_/gameId/401772925
+# WSH @ KC - 2025-10-28T00:15Z
+https://www.espn.com/nfl/game/_/gameId/401772817

@@ -1,0 +1,35 @@
+# NFL Postseason Week 6, 2025 Game URLs
+# Format: One ESPN game URL per line
+# Use: python process_nfl_game_file.py playoffs_week6_2025.txt
+
+# 15 games scheduled for this week
+# PHI @ NYG - 2025-10-10T00:15Z
+https://www.espn.com/nfl/game/_/gameId/401772940
+# DEN @ NYJ - 2025-10-12T13:30Z
+https://www.espn.com/nfl/game/_/gameId/401772634
+# ARI @ IND - 2025-10-12T17:00Z
+https://www.espn.com/nfl/game/_/gameId/401772856
+# LAC @ MIA - 2025-10-12T17:00Z
+https://www.espn.com/nfl/game/_/gameId/401772750
+# CLE @ PIT - 2025-10-12T17:00Z
+https://www.espn.com/nfl/game/_/gameId/401772748
+# SF @ TB - 2025-10-12T17:00Z
+https://www.espn.com/nfl/game/_/gameId/401772749
+# DAL @ CAR - 2025-10-12T17:00Z
+https://www.espn.com/nfl/game/_/gameId/401772858
+# SEA @ JAX - 2025-10-12T17:00Z
+https://www.espn.com/nfl/game/_/gameId/401772857
+# LAR @ BAL - 2025-10-12T17:00Z
+https://www.espn.com/nfl/game/_/gameId/401772855
+# TEN @ LV - 2025-10-12T20:05Z
+https://www.espn.com/nfl/game/_/gameId/401772859
+# CIN @ GB - 2025-10-12T20:25Z
+https://www.espn.com/nfl/game/_/gameId/401772752
+# NE @ NO - 2025-10-12T20:25Z
+https://www.espn.com/nfl/game/_/gameId/401772751
+# DET @ KC - 2025-10-13T00:20Z
+https://www.espn.com/nfl/game/_/gameId/401772923
+# BUF @ ATL - 2025-10-13T23:15Z
+https://www.espn.com/nfl/game/_/gameId/401772815
+# CHI @ WSH - 2025-10-14T00:15Z
+https://www.espn.com/nfl/game/_/gameId/401772717
