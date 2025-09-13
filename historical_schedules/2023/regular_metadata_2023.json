@@ -1,0 +1,2219 @@
+{
+  "year": 2023,
+  "season_type": 2,
+  "season_type_name": "regular",
+  "weeks": {
+    "1": [
+      {
+        "game_id": "401547353",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547353/lions-chiefs",
+        "year": 2023,
+        "week": 1,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547403",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547403/panthers-falcons",
+        "year": 2023,
+        "week": 1,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547397",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547397/bengals-browns",
+        "year": 2023,
+        "week": 1,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547404",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547404/jaguars-colts",
+        "year": 2023,
+        "week": 1,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547398",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547398/buccaneers-vikings",
+        "year": 2023,
+        "week": 1,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547399",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547399/titans-saints",
+        "year": 2023,
+        "week": 1,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547405",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547405/49ers-steelers",
+        "year": 2023,
+        "week": 1,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547406",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547406/cardinals-commanders",
+        "year": 2023,
+        "week": 1,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547396",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547396/texans-ravens",
+        "year": 2023,
+        "week": 1,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547407",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547407/packers-bears",
+        "year": 2023,
+        "week": 1,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547400",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547400/raiders-broncos",
+        "year": 2023,
+        "week": 1,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547402",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547402/eagles-patriots",
+        "year": 2023,
+        "week": 1,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547401",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547401/dolphins-chargers",
+        "year": 2023,
+        "week": 1,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547408",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547408/rams-seahawks",
+        "year": 2023,
+        "week": 1,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547409",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547409/cowboys-giants",
+        "year": 2023,
+        "week": 1,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547352",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547352/bills-jets",
+        "year": 2023,
+        "week": 1,
+        "season_type": 2,
+        "teams_text": ""
+      }
+    ],
+    "2": [
+      {
+        "game_id": "401547410",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547410/vikings-eagles",
+        "year": 2023,
+        "week": 2,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547417",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547417/packers-falcons",
+        "year": 2023,
+        "week": 2,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547411",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547411/raiders-bills",
+        "year": 2023,
+        "week": 2,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547412",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547412/ravens-bengals",
+        "year": 2023,
+        "week": 2,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547418",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547418/seahawks-lions",
+        "year": 2023,
+        "week": 2,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547414",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547414/chargers-titans",
+        "year": 2023,
+        "week": 2,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547420",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547420/bears-buccaneers",
+        "year": 2023,
+        "week": 2,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547413",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547413/chiefs-jaguars",
+        "year": 2023,
+        "week": 2,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547419",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547419/colts-texans",
+        "year": 2023,
+        "week": 2,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547422",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547422/49ers-rams",
+        "year": 2023,
+        "week": 2,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547421",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547421/giants-cardinals",
+        "year": 2023,
+        "week": 2,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547415",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547415/jets-cowboys",
+        "year": 2023,
+        "week": 2,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547416",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547416/commanders-broncos",
+        "year": 2023,
+        "week": 2,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547423",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547423/dolphins-patriots",
+        "year": 2023,
+        "week": 2,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547425",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547425/saints-panthers",
+        "year": 2023,
+        "week": 2,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547424",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547424/browns-steelers",
+        "year": 2023,
+        "week": 2,
+        "season_type": 2,
+        "teams_text": ""
+      }
+    ],
+    "3": [
+      {
+        "game_id": "401547426",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547426/giants-49ers",
+        "year": 2023,
+        "week": 3,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547428",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547428/titans-browns",
+        "year": 2023,
+        "week": 3,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547433",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547433/falcons-lions",
+        "year": 2023,
+        "week": 3,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547434",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547434/saints-packers",
+        "year": 2023,
+        "week": 3,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547429",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547429/broncos-dolphins",
+        "year": 2023,
+        "week": 3,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547436",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547436/chargers-vikings",
+        "year": 2023,
+        "week": 3,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547430",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547430/patriots-jets",
+        "year": 2023,
+        "week": 3,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547431",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547431/bills-commanders",
+        "year": 2023,
+        "week": 3,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547435",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547435/texans-jaguars",
+        "year": 2023,
+        "week": 3,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547427",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547427/colts-ravens",
+        "year": 2023,
+        "week": 3,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547432",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547432/panthers-seahawks",
+        "year": 2023,
+        "week": 3,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547438",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547438/bears-chiefs",
+        "year": 2023,
+        "week": 3,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547437",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547437/cowboys-cardinals",
+        "year": 2023,
+        "week": 3,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547439",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547439/steelers-raiders",
+        "year": 2023,
+        "week": 3,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547440",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547440/eagles-buccaneers",
+        "year": 2023,
+        "week": 3,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547441",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547441/rams-bengals",
+        "year": 2023,
+        "week": 3,
+        "season_type": 2,
+        "teams_text": ""
+      }
+    ],
+    "4": [
+      {
+        "game_id": "401547442",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547442/lions-packers",
+        "year": 2023,
+        "week": 4,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547227",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547227/falcons-jaguars",
+        "year": 2023,
+        "week": 4,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547443",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547443/dolphins-bills",
+        "year": 2023,
+        "week": 4,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547444",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547444/broncos-bears",
+        "year": 2023,
+        "week": 4,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547445",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547445/ravens-browns",
+        "year": 2023,
+        "week": 4,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547452",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547452/bengals-titans",
+        "year": 2023,
+        "week": 4,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547449",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547449/rams-colts",
+        "year": 2023,
+        "week": 4,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547450",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547450/buccaneers-saints",
+        "year": 2023,
+        "week": 4,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547451",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547451/commanders-eagles",
+        "year": 2023,
+        "week": 4,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547448",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547448/vikings-panthers",
+        "year": 2023,
+        "week": 4,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547446",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547446/steelers-texans",
+        "year": 2023,
+        "week": 4,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547447",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547447/raiders-chargers",
+        "year": 2023,
+        "week": 4,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547453",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547453/patriots-cowboys",
+        "year": 2023,
+        "week": 4,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547454",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547454/cardinals-49ers",
+        "year": 2023,
+        "week": 4,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547455",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547455/chiefs-jets",
+        "year": 2023,
+        "week": 4,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547456",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547456/seahawks-giants",
+        "year": 2023,
+        "week": 4,
+        "season_type": 2,
+        "teams_text": ""
+      }
+    ],
+    "5": [
+      {
+        "game_id": "401547457",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547457/bears-commanders",
+        "year": 2023,
+        "week": 5,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547228",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547228/jaguars-bills",
+        "year": 2023,
+        "week": 5,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547463",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547463/texans-falcons",
+        "year": 2023,
+        "week": 5,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547464",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547464/panthers-lions",
+        "year": 2023,
+        "week": 5,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547458",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547458/titans-colts",
+        "year": 2023,
+        "week": 5,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547465",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547465/giants-dolphins",
+        "year": 2023,
+        "week": 5,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547459",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547459/saints-patriots",
+        "year": 2023,
+        "week": 5,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547460",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547460/ravens-steelers",
+        "year": 2023,
+        "week": 5,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547467",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547467/eagles-rams",
+        "year": 2023,
+        "week": 5,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547466",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547466/bengals-cardinals",
+        "year": 2023,
+        "week": 5,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547461",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547461/jets-broncos",
+        "year": 2023,
+        "week": 5,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547462",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547462/chiefs-vikings",
+        "year": 2023,
+        "week": 5,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547354",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547354/cowboys-49ers",
+        "year": 2023,
+        "week": 5,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547468",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547468/packers-raiders",
+        "year": 2023,
+        "week": 5,
+        "season_type": 2,
+        "teams_text": ""
+      }
+    ],
+    "6": [
+      {
+        "game_id": "401547469",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547469/broncos-chiefs",
+        "year": 2023,
+        "week": 6,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547229",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547229/ravens-titans",
+        "year": 2023,
+        "week": 6,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547470",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547470/commanders-falcons",
+        "year": 2023,
+        "week": 6,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547475",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547475/vikings-bears",
+        "year": 2023,
+        "week": 6,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547471",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547471/seahawks-bengals",
+        "year": 2023,
+        "week": 6,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547476",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547476/49ers-browns",
+        "year": 2023,
+        "week": 6,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547473",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547473/panthers-dolphins",
+        "year": 2023,
+        "week": 6,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547472",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547472/colts-jaguars",
+        "year": 2023,
+        "week": 6,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547477",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547477/saints-texans",
+        "year": 2023,
+        "week": 6,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547474",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547474/patriots-raiders",
+        "year": 2023,
+        "week": 6,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547479",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547479/cardinals-rams",
+        "year": 2023,
+        "week": 6,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547480",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547480/eagles-jets",
+        "year": 2023,
+        "week": 6,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547478",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547478/lions-buccaneers",
+        "year": 2023,
+        "week": 6,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547481",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547481/giants-bills",
+        "year": 2023,
+        "week": 6,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547482",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547482/cowboys-chargers",
+        "year": 2023,
+        "week": 6,
+        "season_type": 2,
+        "teams_text": ""
+      }
+    ],
+    "7": [
+      {
+        "game_id": "401547483",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547483/jaguars-saints",
+        "year": 2023,
+        "week": 7,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547490",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547490/raiders-bears",
+        "year": 2023,
+        "week": 7,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547484",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547484/browns-colts",
+        "year": 2023,
+        "week": 7,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547485",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547485/bills-patriots",
+        "year": 2023,
+        "week": 7,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547486",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547486/commanders-giants",
+        "year": 2023,
+        "week": 7,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547491",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547491/falcons-buccaneers",
+        "year": 2023,
+        "week": 7,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547489",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547489/lions-ravens",
+        "year": 2023,
+        "week": 7,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547492",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547492/steelers-rams",
+        "year": 2023,
+        "week": 7,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547493",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547493/cardinals-seahawks",
+        "year": 2023,
+        "week": 7,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547487",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547487/packers-broncos",
+        "year": 2023,
+        "week": 7,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547488",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547488/chargers-chiefs",
+        "year": 2023,
+        "week": 7,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547494",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547494/dolphins-eagles",
+        "year": 2023,
+        "week": 7,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547495",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547495/49ers-vikings",
+        "year": 2023,
+        "week": 7,
+        "season_type": 2,
+        "teams_text": ""
+      }
+    ],
+    "8": [
+      {
+        "game_id": "401547496",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547496/buccaneers-bills",
+        "year": 2023,
+        "week": 8,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547505",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547505/rams-cowboys",
+        "year": 2023,
+        "week": 8,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547506",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547506/vikings-packers",
+        "year": 2023,
+        "week": 8,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547500",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547500/falcons-titans",
+        "year": 2023,
+        "week": 8,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547507",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547507/saints-colts",
+        "year": 2023,
+        "week": 8,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547497",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547497/patriots-dolphins",
+        "year": 2023,
+        "week": 8,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547498",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547498/jets-giants",
+        "year": 2023,
+        "week": 8,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547499",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547499/jaguars-steelers",
+        "year": 2023,
+        "week": 8,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547508",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547508/eagles-commanders",
+        "year": 2023,
+        "week": 8,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547504",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547504/texans-panthers",
+        "year": 2023,
+        "week": 8,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547509",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547509/browns-seahawks",
+        "year": 2023,
+        "week": 8,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547502",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547502/chiefs-broncos",
+        "year": 2023,
+        "week": 8,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547501",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547501/ravens-cardinals",
+        "year": 2023,
+        "week": 8,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547503",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547503/bengals-49ers",
+        "year": 2023,
+        "week": 8,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547510",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547510/bears-chargers",
+        "year": 2023,
+        "week": 8,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547511",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547511/raiders-lions",
+        "year": 2023,
+        "week": 8,
+        "season_type": 2,
+        "teams_text": ""
+      }
+    ],
+    "9": [
+      {
+        "game_id": "401547512",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547512/titans-steelers",
+        "year": 2023,
+        "week": 9,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547230",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547230/dolphins-chiefs",
+        "year": 2023,
+        "week": 9,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547518",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547518/vikings-falcons",
+        "year": 2023,
+        "week": 9,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547514",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547514/cardinals-browns",
+        "year": 2023,
+        "week": 9,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547519",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547519/rams-packers",
+        "year": 2023,
+        "week": 9,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547520",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547520/commanders-patriots",
+        "year": 2023,
+        "week": 9,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547516",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547516/bears-saints",
+        "year": 2023,
+        "week": 9,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547513",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547513/seahawks-ravens",
+        "year": 2023,
+        "week": 9,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547515",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547515/buccaneers-texans",
+        "year": 2023,
+        "week": 9,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547517",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547517/colts-panthers",
+        "year": 2023,
+        "week": 9,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547521",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547521/giants-raiders",
+        "year": 2023,
+        "week": 9,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547522",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547522/cowboys-eagles",
+        "year": 2023,
+        "week": 9,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547523",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547523/bills-bengals",
+        "year": 2023,
+        "week": 9,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547524",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547524/chargers-jets",
+        "year": 2023,
+        "week": 9,
+        "season_type": 2,
+        "teams_text": ""
+      }
+    ],
+    "10": [
+      {
+        "game_id": "401547525",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547525/panthers-bears",
+        "year": 2023,
+        "week": 10,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547231",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547231/colts-patriots",
+        "year": 2023,
+        "week": 10,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547526",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547526/texans-bengals",
+        "year": 2023,
+        "week": 10,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547533",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547533/saints-vikings",
+        "year": 2023,
+        "week": 10,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547527",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547527/packers-steelers",
+        "year": 2023,
+        "week": 10,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547528",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547528/titans-buccaneers",
+        "year": 2023,
+        "week": 10,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547532",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547532/49ers-jaguars",
+        "year": 2023,
+        "week": 10,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547531",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547531/browns-ravens",
+        "year": 2023,
+        "week": 10,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547529",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547529/falcons-cardinals",
+        "year": 2023,
+        "week": 10,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547530",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547530/lions-chargers",
+        "year": 2023,
+        "week": 10,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547534",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547534/giants-cowboys",
+        "year": 2023,
+        "week": 10,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547535",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547535/commanders-seahawks",
+        "year": 2023,
+        "week": 10,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547536",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547536/jets-raiders",
+        "year": 2023,
+        "week": 10,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547537",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547537/broncos-bills",
+        "year": 2023,
+        "week": 10,
+        "season_type": 2,
+        "teams_text": ""
+      }
+    ],
+    "11": [
+      {
+        "game_id": "401547538",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547538/bengals-ravens",
+        "year": 2023,
+        "week": 11,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547539",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547539/steelers-browns",
+        "year": 2023,
+        "week": 11,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547546",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547546/bears-lions",
+        "year": 2023,
+        "week": 11,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547547",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547547/chargers-packers",
+        "year": 2023,
+        "week": 11,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547542",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547542/raiders-dolphins",
+        "year": 2023,
+        "week": 11,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547548",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547548/giants-commanders",
+        "year": 2023,
+        "week": 11,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547545",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547545/cowboys-panthers",
+        "year": 2023,
+        "week": 11,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547541",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547541/titans-jaguars",
+        "year": 2023,
+        "week": 11,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547540",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547540/cardinals-texans",
+        "year": 2023,
+        "week": 11,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547549",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547549/buccaneers-49ers",
+        "year": 2023,
+        "week": 11,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547543",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547543/jets-bills",
+        "year": 2023,
+        "week": 11,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547544",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547544/seahawks-rams",
+        "year": 2023,
+        "week": 11,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547550",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547550/vikings-broncos",
+        "year": 2023,
+        "week": 11,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547345",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547345/eagles-chiefs",
+        "year": 2023,
+        "week": 11,
+        "season_type": 2,
+        "teams_text": ""
+      }
+    ],
+    "12": [
+      {
+        "game_id": "401547552",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547552/packers-lions",
+        "year": 2023,
+        "week": 12,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547551",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547551/commanders-cowboys",
+        "year": 2023,
+        "week": 12,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547553",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547553/49ers-seahawks",
+        "year": 2023,
+        "week": 12,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547242",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547242/dolphins-jets",
+        "year": 2023,
+        "week": 12,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547559",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547559/saints-falcons",
+        "year": 2023,
+        "week": 12,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547554",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547554/steelers-bengals",
+        "year": 2023,
+        "week": 12,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547561",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547561/panthers-titans",
+        "year": 2023,
+        "week": 12,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547556",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547556/buccaneers-colts",
+        "year": 2023,
+        "week": 12,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547560",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547560/patriots-giants",
+        "year": 2023,
+        "week": 12,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547555",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547555/jaguars-texans",
+        "year": 2023,
+        "week": 12,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547563",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547563/browns-broncos",
+        "year": 2023,
+        "week": 12,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547562",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547562/rams-cardinals",
+        "year": 2023,
+        "week": 12,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547557",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547557/chiefs-raiders",
+        "year": 2023,
+        "week": 12,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547558",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547558/bills-eagles",
+        "year": 2023,
+        "week": 12,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547564",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547564/ravens-chargers",
+        "year": 2023,
+        "week": 12,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547565",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547565/bears-vikings",
+        "year": 2023,
+        "week": 12,
+        "season_type": 2,
+        "teams_text": ""
+      }
+    ],
+    "13": [
+      {
+        "game_id": "401547566",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547566/seahawks-cowboys",
+        "year": 2023,
+        "week": 13,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547570",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547570/colts-titans",
+        "year": 2023,
+        "week": 13,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547567",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547567/chargers-patriots",
+        "year": 2023,
+        "week": 13,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547572",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547572/lions-saints",
+        "year": 2023,
+        "week": 13,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547573",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547573/falcons-jets",
+        "year": 2023,
+        "week": 13,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547568",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547568/cardinals-steelers",
+        "year": 2023,
+        "week": 13,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547574",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547574/dolphins-commanders",
+        "year": 2023,
+        "week": 13,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547571",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547571/broncos-texans",
+        "year": 2023,
+        "week": 13,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547569",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547569/panthers-buccaneers",
+        "year": 2023,
+        "week": 13,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547575",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547575/browns-rams",
+        "year": 2023,
+        "week": 13,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547276",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547276/49ers-eagles",
+        "year": 2023,
+        "week": 13,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547576",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547576/chiefs-packers",
+        "year": 2023,
+        "week": 13,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547577",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547577/bengals-jaguars",
+        "year": 2023,
+        "week": 13,
+        "season_type": 2,
+        "teams_text": ""
+      }
+    ],
+    "14": [
+      {
+        "game_id": "401547578",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547578/patriots-steelers",
+        "year": 2023,
+        "week": 14,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547579",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547579/buccaneers-falcons",
+        "year": 2023,
+        "week": 14,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547586",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547586/lions-bears",
+        "year": 2023,
+        "week": 14,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547580",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547580/colts-bengals",
+        "year": 2023,
+        "week": 14,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547581",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547581/jaguars-browns",
+        "year": 2023,
+        "week": 14,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547587",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547587/panthers-saints",
+        "year": 2023,
+        "week": 14,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547582",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547582/texans-jets",
+        "year": 2023,
+        "week": 14,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547585",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547585/rams-ravens",
+        "year": 2023,
+        "week": 14,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547588",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547588/vikings-raiders",
+        "year": 2023,
+        "week": 14,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547589",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547589/seahawks-49ers",
+        "year": 2023,
+        "week": 14,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547583",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547583/bills-chiefs",
+        "year": 2023,
+        "week": 14,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547584",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547584/broncos-chargers",
+        "year": 2023,
+        "week": 14,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547590",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547590/eagles-cowboys",
+        "year": 2023,
+        "week": 14,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547592",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547592/titans-dolphins",
+        "year": 2023,
+        "week": 14,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547591",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547591/packers-giants",
+        "year": 2023,
+        "week": 14,
+        "season_type": 2,
+        "teams_text": ""
+      }
+    ],
+    "15": [
+      {
+        "game_id": "401547593",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547593/chargers-raiders",
+        "year": 2023,
+        "week": 15,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547604",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547604/vikings-bengals",
+        "year": 2023,
+        "week": 15,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547607",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547607/steelers-colts",
+        "year": 2023,
+        "week": 15,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547606",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547606/broncos-lions",
+        "year": 2023,
+        "week": 15,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547605",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547605/bears-browns",
+        "year": 2023,
+        "week": 15,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547598",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547598/buccaneers-packers",
+        "year": 2023,
+        "week": 15,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547595",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547595/texans-titans",
+        "year": 2023,
+        "week": 15,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547594",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547594/jets-dolphins",
+        "year": 2023,
+        "week": 15,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547608",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547608/chiefs-patriots",
+        "year": 2023,
+        "week": 15,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547599",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547599/giants-saints",
+        "year": 2023,
+        "week": 15,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547603",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547603/falcons-panthers",
+        "year": 2023,
+        "week": 15,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547597",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547597/commanders-rams",
+        "year": 2023,
+        "week": 15,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547596",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547596/49ers-cardinals",
+        "year": 2023,
+        "week": 15,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547600",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547600/cowboys-bills",
+        "year": 2023,
+        "week": 15,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547602",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547602/ravens-jaguars",
+        "year": 2023,
+        "week": 15,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547601",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547601/eagles-seahawks",
+        "year": 2023,
+        "week": 15,
+        "season_type": 2,
+        "teams_text": ""
+      }
+    ],
+    "16": [
+      {
+        "game_id": "401547609",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547609/saints-rams",
+        "year": 2023,
+        "week": 16,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547610",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547610/bengals-steelers",
+        "year": 2023,
+        "week": 16,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547611",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547611/bills-chargers",
+        "year": 2023,
+        "week": 16,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547616",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547616/colts-falcons",
+        "year": 2023,
+        "week": 16,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547614",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547614/seahawks-titans",
+        "year": 2023,
+        "week": 16,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547618",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547618/lions-vikings",
+        "year": 2023,
+        "week": 16,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547613",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547613/commanders-jets",
+        "year": 2023,
+        "week": 16,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547617",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547617/packers-panthers",
+        "year": 2023,
+        "week": 16,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547612",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547612/browns-texans",
+        "year": 2023,
+        "week": 16,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547615",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547615/jaguars-buccaneers",
+        "year": 2023,
+        "week": 16,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547619",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547619/cardinals-bears",
+        "year": 2023,
+        "week": 16,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547620",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547620/cowboys-dolphins",
+        "year": 2023,
+        "week": 16,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547621",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547621/patriots-broncos",
+        "year": 2023,
+        "week": 16,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547351",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547351/raiders-chiefs",
+        "year": 2023,
+        "week": 16,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547241",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547241/giants-eagles",
+        "year": 2023,
+        "week": 16,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547622",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547622/ravens-49ers",
+        "year": 2023,
+        "week": 16,
+        "season_type": 2,
+        "teams_text": ""
+      }
+    ],
+    "17": [
+      {
+        "game_id": "401547623",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547623/jets-browns",
+        "year": 2023,
+        "week": 17,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547624",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547624/lions-cowboys",
+        "year": 2023,
+        "week": 17,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547626",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547626/patriots-bills",
+        "year": 2023,
+        "week": 17,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547627",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547627/falcons-bears",
+        "year": 2023,
+        "week": 17,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547628",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547628/raiders-colts",
+        "year": 2023,
+        "week": 17,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547632",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547632/rams-giants",
+        "year": 2023,
+        "week": 17,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547633",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547633/cardinals-eagles",
+        "year": 2023,
+        "week": 17,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547634",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547634/saints-buccaneers",
+        "year": 2023,
+        "week": 17,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547635",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547635/49ers-commanders",
+        "year": 2023,
+        "week": 17,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547629",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547629/panthers-jaguars",
+        "year": 2023,
+        "week": 17,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547625",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547625/dolphins-ravens",
+        "year": 2023,
+        "week": 17,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547631",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547631/titans-texans",
+        "year": 2023,
+        "week": 17,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547636",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547636/steelers-seahawks",
+        "year": 2023,
+        "week": 17,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547630",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547630/chargers-broncos",
+        "year": 2023,
+        "week": 17,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547235",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547235/bengals-chiefs",
+        "year": 2023,
+        "week": 17,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547637",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547637/packers-vikings",
+        "year": 2023,
+        "week": 17,
+        "season_type": 2,
+        "teams_text": ""
+      }
+    ],
+    "18": [
+      {
+        "game_id": "401547639",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547639/steelers-ravens",
+        "year": 2023,
+        "week": 18,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547644",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547644/texans-colts",
+        "year": 2023,
+        "week": 18,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547641",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547641/browns-bengals",
+        "year": 2023,
+        "week": 18,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547642",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547642/vikings-lions",
+        "year": 2023,
+        "week": 18,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547652",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547652/jaguars-titans",
+        "year": 2023,
+        "week": 18,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547648",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547648/jets-patriots",
+        "year": 2023,
+        "week": 18,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547649",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547649/falcons-saints",
+        "year": 2023,
+        "week": 18,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547640",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547640/buccaneers-panthers",
+        "year": 2023,
+        "week": 18,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547643",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547643/bears-packers",
+        "year": 2023,
+        "week": 18,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547646",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547646/broncos-raiders",
+        "year": 2023,
+        "week": 18,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547650",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547650/eagles-giants",
+        "year": 2023,
+        "week": 18,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547638",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547638/seahawks-cardinals",
+        "year": 2023,
+        "week": 18,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547645",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547645/chiefs-chargers",
+        "year": 2023,
+        "week": 18,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547651",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547651/rams-49ers",
+        "year": 2023,
+        "week": 18,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547653",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547653/cowboys-commanders",
+        "year": 2023,
+        "week": 18,
+        "season_type": 2,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547647",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547647/bills-dolphins",
+        "year": 2023,
+        "week": 18,
+        "season_type": 2,
+        "teams_text": ""
+      }
+    ]
+  }
+}

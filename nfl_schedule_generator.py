@@ -64,13 +64,22 @@ class NFLScheduleGenerator:
             print(f"Error fetching ESPN schedule: {e}")
             return {}
     
-    def extract_game_urls_from_schedule(self, schedule_data: Dict) -> List[Dict]:
+    def extract_game_urls_from_schedule(self, schedule_data: Dict, target_season_type: str = 'regular') -> List[Dict]:
         """Extract game URLs and metadata from ESPN schedule data"""
         games = []
         
         if 'events' not in schedule_data:
             print("No events found in schedule data")
             return games
+        
+        # Map season type names to ESPN API values
+        season_type_map = {
+            'preseason': 1,
+            'regular': 2,
+            'postseason': 3
+        }
+        
+        target_type_value = season_type_map.get(target_season_type, 2)
         
         for event in schedule_data['events']:
             try:
@@ -81,6 +90,10 @@ class NFLScheduleGenerator:
                 date = event.get('date', '')
                 week = event.get('week', {}).get('number', 0)
                 season_type = event.get('season', {}).get('type', 0)
+                
+                # Filter by season type - only include games matching the target season type
+                if season_type != target_type_value:
+                    continue
                 
                 # Get team information
                 competitions = event.get('competitions', [])
@@ -105,6 +118,7 @@ class NFLScheduleGenerator:
                 print(f"Error processing game event: {e}")
                 continue
         
+        print(f"Filtered to {len(games)} games for {target_season_type} season")
         return games
     
     def create_weekly_files(self, games: List[Dict], season_type: str) -> Dict[str, List]:
@@ -194,7 +208,7 @@ class NFLScheduleGenerator:
                 continue
             
             # Extract game URLs
-            games = self.extract_game_urls_from_schedule(schedule_data)
+            games = self.extract_game_urls_from_schedule(schedule_data, season_type)
             
             if not games:
                 print(f"⚠️  No games found for {season_type}")

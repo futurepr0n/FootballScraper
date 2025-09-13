@@ -1,0 +1,22 @@
+# NFL Regular Week 2, 2023 Game URLs
+# Generated: 2025-09-09T20:52:20.077019
+# Format: One ESPN game URL per line
+# Use: python process_nfl_game_file.py regular_week2_2023.txt
+
+# 16 games scheduled for this week
+https://www.espn.com/nfl/game/_/gameId/401547410/vikings-eagles
+https://www.espn.com/nfl/game/_/gameId/401547417/packers-falcons
+https://www.espn.com/nfl/game/_/gameId/401547411/raiders-bills
+https://www.espn.com/nfl/game/_/gameId/401547412/ravens-bengals
+https://www.espn.com/nfl/game/_/gameId/401547418/seahawks-lions
+https://www.espn.com/nfl/game/_/gameId/401547414/chargers-titans
+https://www.espn.com/nfl/game/_/gameId/401547420/bears-buccaneers
+https://www.espn.com/nfl/game/_/gameId/401547413/chiefs-jaguars
+https://www.espn.com/nfl/game/_/gameId/401547419/colts-texans
+https://www.espn.com/nfl/game/_/gameId/401547422/49ers-rams
+https://www.espn.com/nfl/game/_/gameId/401547421/giants-cardinals
+https://www.espn.com/nfl/game/_/gameId/401547415/jets-cowboys
+https://www.espn.com/nfl/game/_/gameId/401547416/commanders-broncos
+https://www.espn.com/nfl/game/_/gameId/401547423/dolphins-patriots
+https://www.espn.com/nfl/game/_/gameId/401547425/saints-panthers
+https://www.espn.com/nfl/game/_/gameId/401547424/browns-steelers

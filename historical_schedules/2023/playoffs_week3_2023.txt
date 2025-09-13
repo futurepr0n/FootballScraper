@@ -1,0 +1,8 @@
+# NFL Playoffs Week 3, 2023 Game URLs
+# Generated: 2025-09-09T22:17:09.678414
+# Format: One ESPN game URL per line
+# Use: python process_nfl_game_file.py playoffs_week3_2023.txt
+
+# 2 games scheduled for this week
+https://www.espn.com/nfl/game/_/gameId/401547379/chiefs-ravens
+https://www.espn.com/nfl/game/_/gameId/401547380/lions-49ers

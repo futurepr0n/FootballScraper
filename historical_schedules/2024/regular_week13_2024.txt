@@ -1,0 +1,22 @@
+# NFL Regular Week 13, 2024 Game URLs
+# Generated: 2025-09-09T22:48:40.444852
+# Format: One ESPN game URL per line
+# Use: python process_nfl_game_file.py regular_week13_2024.txt
+
+# 16 games scheduled for this week
+https://www.espn.com/nfl/game/_/gameId/401671492/bears-lions
+https://www.espn.com/nfl/game/_/gameId/401671779/giants-cowboys
+https://www.espn.com/nfl/game/_/gameId/401671798/dolphins-packers
+https://www.espn.com/nfl/game/_/gameId/401671806/raiders-chiefs
+https://www.espn.com/nfl/game/_/gameId/401671649/chargers-falcons
+https://www.espn.com/nfl/game/_/gameId/401671627/steelers-bengals
+https://www.espn.com/nfl/game/_/gameId/401671726/cardinals-vikings
+https://www.espn.com/nfl/game/_/gameId/401671620/colts-patriots
+https://www.espn.com/nfl/game/_/gameId/401671703/seahawks-jets
+https://www.espn.com/nfl/game/_/gameId/401671743/titans-commanders
+https://www.espn.com/nfl/game/_/gameId/401671705/texans-jaguars
+https://www.espn.com/nfl/game/_/gameId/401671753/rams-saints
+https://www.espn.com/nfl/game/_/gameId/401671752/buccaneers-panthers
+https://www.espn.com/nfl/game/_/gameId/401671666/eagles-ravens
+https://www.espn.com/nfl/game/_/gameId/401671781/49ers-bills
+https://www.espn.com/nfl/game/_/gameId/401671686/browns-broncos

@@ -1,0 +1,129 @@
+{
+  "year": 2023,
+  "season_type": 3,
+  "season_type_name": "playoffs",
+  "weeks": {
+    "1": [
+      {
+        "game_id": "401547749",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547749/browns-texans",
+        "year": 2023,
+        "week": 1,
+        "season_type": 3,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547750",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547750/dolphins-chiefs",
+        "year": 2023,
+        "week": 1,
+        "season_type": 3,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547752",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547752/packers-cowboys",
+        "year": 2023,
+        "week": 1,
+        "season_type": 3,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547753",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547753/rams-lions",
+        "year": 2023,
+        "week": 1,
+        "season_type": 3,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547751",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547751/steelers-bills",
+        "year": 2023,
+        "week": 1,
+        "season_type": 3,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547754",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547754/eagles-buccaneers",
+        "year": 2023,
+        "week": 1,
+        "season_type": 3,
+        "teams_text": ""
+      }
+    ],
+    "2": [
+      {
+        "game_id": "401547755",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547755/texans-ravens",
+        "year": 2023,
+        "week": 2,
+        "season_type": 3,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547756",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547756/packers-49ers",
+        "year": 2023,
+        "week": 2,
+        "season_type": 3,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547757",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547757/buccaneers-lions",
+        "year": 2023,
+        "week": 2,
+        "season_type": 3,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547758",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547758/chiefs-bills",
+        "year": 2023,
+        "week": 2,
+        "season_type": 3,
+        "teams_text": ""
+      }
+    ],
+    "3": [
+      {
+        "game_id": "401547379",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547379/chiefs-ravens",
+        "year": 2023,
+        "week": 3,
+        "season_type": 3,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401547380",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547380/lions-49ers",
+        "year": 2023,
+        "week": 3,
+        "season_type": 3,
+        "teams_text": ""
+      }
+    ],
+    "4": [
+      {
+        "game_id": "401616889",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401616889/nfc-afc",
+        "year": 2023,
+        "week": 4,
+        "season_type": 3,
+        "teams_text": ""
+      }
+    ],
+    "5": [
+      {
+        "game_id": "401547378",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401547378/49ers-chiefs",
+        "year": 2023,
+        "week": 5,
+        "season_type": 3,
+        "teams_text": ""
+      }
+    ]
+  }
+}

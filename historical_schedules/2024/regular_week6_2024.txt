@@ -1,0 +1,20 @@
+# NFL Regular Week 6, 2024 Game URLs
+# Generated: 2025-09-09T22:48:40.442184
+# Format: One ESPN game URL per line
+# Use: python process_nfl_game_file.py regular_week6_2024.txt
+
+# 14 games scheduled for this week
+https://www.espn.com/nfl/game/_/gameId/401671819/49ers-seahawks
+https://www.espn.com/nfl/game/_/gameId/401671802/jaguars-bears
+https://www.espn.com/nfl/game/_/gameId/401671722/cardinals-packers
+https://www.espn.com/nfl/game/_/gameId/401671820/colts-titans
+https://www.espn.com/nfl/game/_/gameId/401671619/texans-patriots
+https://www.espn.com/nfl/game/_/gameId/401671735/buccaneers-saints
+https://www.espn.com/nfl/game/_/gameId/401671714/browns-eagles
+https://www.espn.com/nfl/game/_/gameId/401671625/commanders-ravens
+https://www.espn.com/nfl/game/_/gameId/401671655/chargers-broncos
+https://www.espn.com/nfl/game/_/gameId/401671657/steelers-raiders
+https://www.espn.com/nfl/game/_/gameId/401671764/lions-cowboys
+https://www.espn.com/nfl/game/_/gameId/401671769/falcons-panthers
+https://www.espn.com/nfl/game/_/gameId/401671791/bengals-giants
+https://www.espn.com/nfl/game/_/gameId/401671684/bills-jets

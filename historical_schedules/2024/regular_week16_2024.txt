@@ -1,0 +1,22 @@
+# NFL Regular Week 16, 2024 Game URLs
+# Generated: 2025-09-09T22:48:40.445962
+# Format: One ESPN game URL per line
+# Use: python process_nfl_game_file.py regular_week16_2024.txt
+
+# 16 games scheduled for this week
+https://www.espn.com/nfl/game/_/gameId/401671749/broncos-chargers
+https://www.espn.com/nfl/game/_/gameId/401671780/texans-chiefs
+https://www.espn.com/nfl/game/_/gameId/401671778/steelers-ravens
+https://www.espn.com/nfl/game/_/gameId/401671729/giants-falcons
+https://www.espn.com/nfl/game/_/gameId/401671868/lions-bears
+https://www.espn.com/nfl/game/_/gameId/401671811/browns-bengals
+https://www.espn.com/nfl/game/_/gameId/401671862/titans-colts
+https://www.espn.com/nfl/game/_/gameId/401671621/rams-jets
+https://www.espn.com/nfl/game/_/gameId/401671717/eagles-commanders
+https://www.espn.com/nfl/game/_/gameId/401671732/cardinals-panthers
+https://www.espn.com/nfl/game/_/gameId/401671759/vikings-seahawks
+https://www.espn.com/nfl/game/_/gameId/401671494/patriots-bills
+https://www.espn.com/nfl/game/_/gameId/401671673/jaguars-raiders
+https://www.espn.com/nfl/game/_/gameId/401671874/49ers-dolphins
+https://www.espn.com/nfl/game/_/gameId/401671790/buccaneers-cowboys
+https://www.espn.com/nfl/game/_/gameId/401671692/saints-packers

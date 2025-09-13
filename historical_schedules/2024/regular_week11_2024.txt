@@ -1,0 +1,20 @@
+# NFL Regular Week 11, 2024 Game URLs
+# Generated: 2025-09-09T22:48:40.444138
+# Format: One ESPN game URL per line
+# Use: python process_nfl_game_file.py regular_week11_2024.txt
+
+# 14 games scheduled for this week
+https://www.espn.com/nfl/game/_/gameId/401671813/commanders-eagles
+https://www.espn.com/nfl/game/_/gameId/401671869/packers-bears
+https://www.espn.com/nfl/game/_/gameId/401671642/jaguars-lions
+https://www.espn.com/nfl/game/_/gameId/401671824/vikings-titans
+https://www.espn.com/nfl/game/_/gameId/401671851/raiders-dolphins
+https://www.espn.com/nfl/game/_/gameId/401671701/rams-patriots
+https://www.espn.com/nfl/game/_/gameId/401671746/browns-saints
+https://www.espn.com/nfl/game/_/gameId/401671782/colts-jets
+https://www.espn.com/nfl/game/_/gameId/401671630/ravens-steelers
+https://www.espn.com/nfl/game/_/gameId/401671748/falcons-broncos
+https://www.espn.com/nfl/game/_/gameId/401671757/seahawks-49ers
+https://www.espn.com/nfl/game/_/gameId/401671665/chiefs-bills
+https://www.espn.com/nfl/game/_/gameId/401671675/bengals-chargers
+https://www.espn.com/nfl/game/_/gameId/401671694/texans-cowboys

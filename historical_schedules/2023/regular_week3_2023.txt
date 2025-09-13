@@ -1,0 +1,22 @@
+# NFL Regular Week 3, 2023 Game URLs
+# Generated: 2025-09-09T20:52:20.077385
+# Format: One ESPN game URL per line
+# Use: python process_nfl_game_file.py regular_week3_2023.txt
+
+# 16 games scheduled for this week
+https://www.espn.com/nfl/game/_/gameId/401547426/giants-49ers
+https://www.espn.com/nfl/game/_/gameId/401547428/titans-browns
+https://www.espn.com/nfl/game/_/gameId/401547433/falcons-lions
+https://www.espn.com/nfl/game/_/gameId/401547434/saints-packers
+https://www.espn.com/nfl/game/_/gameId/401547429/broncos-dolphins
+https://www.espn.com/nfl/game/_/gameId/401547436/chargers-vikings
+https://www.espn.com/nfl/game/_/gameId/401547430/patriots-jets
+https://www.espn.com/nfl/game/_/gameId/401547431/bills-commanders
+https://www.espn.com/nfl/game/_/gameId/401547435/texans-jaguars
+https://www.espn.com/nfl/game/_/gameId/401547427/colts-ravens
+https://www.espn.com/nfl/game/_/gameId/401547432/panthers-seahawks
+https://www.espn.com/nfl/game/_/gameId/401547438/bears-chiefs
+https://www.espn.com/nfl/game/_/gameId/401547437/cowboys-cardinals
+https://www.espn.com/nfl/game/_/gameId/401547439/steelers-raiders
+https://www.espn.com/nfl/game/_/gameId/401547440/eagles-buccaneers
+https://www.espn.com/nfl/game/_/gameId/401547441/rams-bengals

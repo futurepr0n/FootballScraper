@@ -1,0 +1,19 @@
+# NFL Regular Week 13, 2023 Game URLs
+# Generated: 2025-09-09T20:52:20.080599
+# Format: One ESPN game URL per line
+# Use: python process_nfl_game_file.py regular_week13_2023.txt
+
+# 13 games scheduled for this week
+https://www.espn.com/nfl/game/_/gameId/401547566/seahawks-cowboys
+https://www.espn.com/nfl/game/_/gameId/401547570/colts-titans
+https://www.espn.com/nfl/game/_/gameId/401547567/chargers-patriots
+https://www.espn.com/nfl/game/_/gameId/401547572/lions-saints
+https://www.espn.com/nfl/game/_/gameId/401547573/falcons-jets
+https://www.espn.com/nfl/game/_/gameId/401547568/cardinals-steelers
+https://www.espn.com/nfl/game/_/gameId/401547574/dolphins-commanders
+https://www.espn.com/nfl/game/_/gameId/401547571/broncos-texans
+https://www.espn.com/nfl/game/_/gameId/401547569/panthers-buccaneers
+https://www.espn.com/nfl/game/_/gameId/401547575/browns-rams
+https://www.espn.com/nfl/game/_/gameId/401547276/49ers-eagles
+https://www.espn.com/nfl/game/_/gameId/401547576/chiefs-packers
+https://www.espn.com/nfl/game/_/gameId/401547577/bengals-jaguars

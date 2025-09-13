@@ -1,0 +1,22 @@
+# NFL Regular Week 15, 2023 Game URLs
+# Generated: 2025-09-09T20:52:20.081277
+# Format: One ESPN game URL per line
+# Use: python process_nfl_game_file.py regular_week15_2023.txt
+
+# 16 games scheduled for this week
+https://www.espn.com/nfl/game/_/gameId/401547593/chargers-raiders
+https://www.espn.com/nfl/game/_/gameId/401547604/vikings-bengals
+https://www.espn.com/nfl/game/_/gameId/401547607/steelers-colts
+https://www.espn.com/nfl/game/_/gameId/401547606/broncos-lions
+https://www.espn.com/nfl/game/_/gameId/401547605/bears-browns
+https://www.espn.com/nfl/game/_/gameId/401547598/buccaneers-packers
+https://www.espn.com/nfl/game/_/gameId/401547595/texans-titans
+https://www.espn.com/nfl/game/_/gameId/401547594/jets-dolphins
+https://www.espn.com/nfl/game/_/gameId/401547608/chiefs-patriots
+https://www.espn.com/nfl/game/_/gameId/401547599/giants-saints
+https://www.espn.com/nfl/game/_/gameId/401547603/falcons-panthers
+https://www.espn.com/nfl/game/_/gameId/401547597/commanders-rams
+https://www.espn.com/nfl/game/_/gameId/401547596/49ers-cardinals
+https://www.espn.com/nfl/game/_/gameId/401547600/cowboys-bills
+https://www.espn.com/nfl/game/_/gameId/401547602/ravens-jaguars
+https://www.espn.com/nfl/game/_/gameId/401547601/eagles-seahawks

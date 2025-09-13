@@ -3,18 +3,8 @@
   "week": 4,
   "year": 2025,
   "total_games": 33,
-  "generated_date": "2025-08-24T00:33:53.265811",
+  "generated_date": "2025-09-13T11:39:38.120407",
   "games": [
-    {
-      "url": "https://www.espn.com/nfl/game/_/gameId/401774590",
-      "game_id": "401774590",
-      "date": "2025-08-24T02:00Z",
-      "week": 4,
-      "season_type": 1,
-      "away_team": "LV",
-      "home_team": "ARI",
-      "matchup": "LV @ ARI"
-    },
     {
       "url": "https://www.espn.com/nfl/game/_/gameId/401701113",
       "game_id": "401701113",
@@ -174,6 +164,16 @@
       "away_team": "LAC",
       "home_team": "SF",
       "matchup": "LAC @ SF"
+    },
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401774590",
+      "game_id": "401774590",
+      "date": "2025-08-24T02:00Z",
+      "week": 4,
+      "season_type": 1,
+      "away_team": "LV",
+      "home_team": "ARI",
+      "matchup": "LV @ ARI"
     },
     {
       "url": "https://www.espn.com/nfl/game/_/gameId/401772938",

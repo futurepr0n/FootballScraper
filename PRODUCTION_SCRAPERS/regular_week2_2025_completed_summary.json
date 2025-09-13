@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "file_path": "regular_week2_2025_completed.txt",
+  "season": 2025,
+  "season_type": 2,
+  "week": 2,
+  "total_games": 1,
+  "processed": 1,
+  "failed": 0,
+  "created_files": [
+    "/Users/futurepr0n/Development/Capping.Pro/Revamp/FootballScraper/FootballData/CSV_BACKUPS/nfl_WAS_passing_week2_20250912_401772936.csv",
+    "/Users/futurepr0n/Development/Capping.Pro/Revamp/FootballScraper/FootballData/CSV_BACKUPS/nfl_WAS_rushing_week2_20250912_401772936.csv",
+    "/Users/futurepr0n/Development/Capping.Pro/Revamp/FootballScraper/FootballData/CSV_BACKUPS/nfl_WAS_receiving_week2_20250912_401772936.csv",
+    "/Users/futurepr0n/Development/Capping.Pro/Revamp/FootballScraper/FootballData/CSV_BACKUPS/nfl_WAS_kick returns_week2_20250912_401772936.csv",
+    "/Users/futurepr0n/Development/Capping.Pro/Revamp/FootballScraper/FootballData/CSV_BACKUPS/nfl_WAS_punt returns_week2_20250912_401772936.csv",
+    "/Users/futurepr0n/Development/Capping.Pro/Revamp/FootballScraper/FootballData/CSV_BACKUPS/nfl_WAS_kicking_week2_20250912_401772936.csv",
+    "/Users/futurepr0n/Development/Capping.Pro/Revamp/FootballScraper/FootballData/CSV_BACKUPS/nfl_WAS_punting_week2_20250912_401772936.csv",
+    "/Users/futurepr0n/Development/Capping.Pro/Revamp/FootballScraper/FootballData/CSV_BACKUPS/nfl_GB_bay passing_week2_20250912_401772936.csv",
+    "/Users/futurepr0n/Development/Capping.Pro/Revamp/FootballScraper/FootballData/CSV_BACKUPS/nfl_GB_bay rushing_week2_20250912_401772936.csv",
+    "/Users/futurepr0n/Development/Capping.Pro/Revamp/FootballScraper/FootballData/CSV_BACKUPS/nfl_GB_bay receiving_week2_20250912_401772936.csv",
+    "/Users/futurepr0n/Development/Capping.Pro/Revamp/FootballScraper/FootballData/CSV_BACKUPS/nfl_GB_bay kick returns_week2_20250912_401772936.csv",
+    "/Users/futurepr0n/Development/Capping.Pro/Revamp/FootballScraper/FootballData/CSV_BACKUPS/nfl_GB_bay punt returns_week2_20250912_401772936.csv",
+    "/Users/futurepr0n/Development/Capping.Pro/Revamp/FootballScraper/FootballData/CSV_BACKUPS/nfl_GB_bay kicking_week2_20250912_401772936.csv",
+    "/Users/futurepr0n/Development/Capping.Pro/Revamp/FootballScraper/FootballData/CSV_BACKUPS/nfl_GB_bay punting_week2_20250912_401772936.csv"
+  ],
+  "processed_games": [
+    {
+      "game_id": "401772936",
+      "game_url": "https://www.espn.com/nfl/game/_/gameId/401772936",
+      "season": 2025,
+      "season_type": 2,
+      "week": 2,
+      "status": "completed",
+      "away_team": "TBD",
+      "home_team": "TBD"
+    }
+  ],
+  "failed_games": []
+}

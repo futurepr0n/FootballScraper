@@ -1,0 +1,21 @@
+# NFL Regular Week 7, 2024 Game URLs
+# Generated: 2025-09-09T22:48:40.442663
+# Format: One ESPN game URL per line
+# Use: python process_nfl_game_file.py regular_week7_2024.txt
+
+# 15 games scheduled for this week
+https://www.espn.com/nfl/game/_/gameId/401671816/broncos-saints
+https://www.espn.com/nfl/game/_/gameId/401671801/patriots-jaguars
+https://www.espn.com/nfl/game/_/gameId/401671730/seahawks-falcons
+https://www.espn.com/nfl/game/_/gameId/401671616/titans-bills
+https://www.espn.com/nfl/game/_/gameId/401671853/bengals-browns
+https://www.espn.com/nfl/game/_/gameId/401671644/texans-packers
+https://www.espn.com/nfl/game/_/gameId/401671864/dolphins-colts
+https://www.espn.com/nfl/game/_/gameId/401671724/lions-vikings
+https://www.espn.com/nfl/game/_/gameId/401671710/eagles-giants
+https://www.espn.com/nfl/game/_/gameId/401671663/raiders-rams
+https://www.espn.com/nfl/game/_/gameId/401671640/panthers-commanders
+https://www.espn.com/nfl/game/_/gameId/401671777/chiefs-49ers
+https://www.espn.com/nfl/game/_/gameId/401671785/jets-steelers
+https://www.espn.com/nfl/game/_/gameId/401671695/ravens-buccaneers
+https://www.espn.com/nfl/game/_/gameId/401671699/chargers-cardinals

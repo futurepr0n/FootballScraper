@@ -1,0 +1,22 @@
+# NFL Regular Week 4, 2024 Game URLs
+# Generated: 2025-09-09T22:48:40.441204
+# Format: One ESPN game URL per line
+# Use: python process_nfl_game_file.py regular_week4_2024.txt
+
+# 16 games scheduled for this week
+https://www.espn.com/nfl/game/_/gameId/401671812/cowboys-giants
+https://www.espn.com/nfl/game/_/gameId/401671727/saints-falcons
+https://www.espn.com/nfl/game/_/gameId/401671871/rams-bears
+https://www.espn.com/nfl/game/_/gameId/401671643/vikings-packers
+https://www.espn.com/nfl/game/_/gameId/401671867/steelers-colts
+https://www.espn.com/nfl/game/_/gameId/401671622/broncos-jets
+https://www.espn.com/nfl/game/_/gameId/401671740/eagles-buccaneers
+https://www.espn.com/nfl/game/_/gameId/401671745/bengals-panthers
+https://www.espn.com/nfl/game/_/gameId/401671857/jaguars-texans
+https://www.espn.com/nfl/game/_/gameId/401671755/commanders-cardinals
+https://www.espn.com/nfl/game/_/gameId/401671758/patriots-49ers
+https://www.espn.com/nfl/game/_/gameId/401671672/browns-raiders
+https://www.espn.com/nfl/game/_/gameId/401671674/chiefs-chargers
+https://www.espn.com/nfl/game/_/gameId/401671783/bills-ravens
+https://www.espn.com/nfl/game/_/gameId/401671683/titans-dolphins
+https://www.espn.com/nfl/game/_/gameId/401671491/seahawks-lions

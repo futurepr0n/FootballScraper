@@ -1,0 +1,20 @@
+# NFL Regular Week 9, 2023 Game URLs
+# Generated: 2025-09-09T20:52:20.079322
+# Format: One ESPN game URL per line
+# Use: python process_nfl_game_file.py regular_week9_2023.txt
+
+# 14 games scheduled for this week
+https://www.espn.com/nfl/game/_/gameId/401547512/titans-steelers
+https://www.espn.com/nfl/game/_/gameId/401547230/dolphins-chiefs
+https://www.espn.com/nfl/game/_/gameId/401547518/vikings-falcons
+https://www.espn.com/nfl/game/_/gameId/401547514/cardinals-browns
+https://www.espn.com/nfl/game/_/gameId/401547519/rams-packers
+https://www.espn.com/nfl/game/_/gameId/401547520/commanders-patriots
+https://www.espn.com/nfl/game/_/gameId/401547516/bears-saints
+https://www.espn.com/nfl/game/_/gameId/401547513/seahawks-ravens
+https://www.espn.com/nfl/game/_/gameId/401547515/buccaneers-texans
+https://www.espn.com/nfl/game/_/gameId/401547517/colts-panthers
+https://www.espn.com/nfl/game/_/gameId/401547521/giants-raiders
+https://www.espn.com/nfl/game/_/gameId/401547522/cowboys-eagles
+https://www.espn.com/nfl/game/_/gameId/401547523/bills-bengals
+https://www.espn.com/nfl/game/_/gameId/401547524/chargers-jets

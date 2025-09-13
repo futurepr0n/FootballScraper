@@ -1,0 +1,19 @@
+{
+  "success": true,
+  "file_path": "historical_schedules/2023/playoffs_week4_2023.txt",
+  "season": 2023,
+  "season_type": 3,
+  "week": 4,
+  "total_games": 1,
+  "processed": 0,
+  "failed": 1,
+  "created_files": [],
+  "processed_games": [],
+  "failed_games": [
+    {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401616889/nfc-afc",
+      "game_id": "401616889",
+      "error": "No statistics found or game postponed"
+    }
+  ]
+}

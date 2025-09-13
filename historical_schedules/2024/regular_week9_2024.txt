@@ -1,0 +1,21 @@
+# NFL Regular Week 9, 2024 Game URLs
+# Generated: 2025-09-09T22:48:40.443403
+# Format: One ESPN game URL per line
+# Use: python process_nfl_game_file.py regular_week9_2024.txt
+
+# 15 games scheduled for this week
+https://www.espn.com/nfl/game/_/gameId/401671809/texans-jets
+https://www.espn.com/nfl/game/_/gameId/401671728/cowboys-falcons
+https://www.espn.com/nfl/game/_/gameId/401671493/dolphins-bills
+https://www.espn.com/nfl/game/_/gameId/401671704/raiders-bengals
+https://www.espn.com/nfl/game/_/gameId/401671629/chargers-browns
+https://www.espn.com/nfl/game/_/gameId/401671822/patriots-titans
+https://www.espn.com/nfl/game/_/gameId/401671711/commanders-giants
+https://www.espn.com/nfl/game/_/gameId/401671650/saints-panthers
+https://www.espn.com/nfl/game/_/gameId/401671623/broncos-ravens
+https://www.espn.com/nfl/game/_/gameId/401671797/jaguars-eagles
+https://www.espn.com/nfl/game/_/gameId/401671661/bears-cardinals
+https://www.espn.com/nfl/game/_/gameId/401671767/lions-packers
+https://www.espn.com/nfl/game/_/gameId/401671776/rams-seahawks
+https://www.espn.com/nfl/game/_/gameId/401671647/colts-vikings
+https://www.espn.com/nfl/game/_/gameId/401671688/buccaneers-chiefs

@@ -1,0 +1,22 @@
+# NFL Regular Week 1, 2023 Game URLs
+# Generated: 2025-09-09T20:52:20.076606
+# Format: One ESPN game URL per line
+# Use: python process_nfl_game_file.py regular_week1_2023.txt
+
+# 16 games scheduled for this week
+https://www.espn.com/nfl/game/_/gameId/401547353/lions-chiefs
+https://www.espn.com/nfl/game/_/gameId/401547403/panthers-falcons
+https://www.espn.com/nfl/game/_/gameId/401547397/bengals-browns
+https://www.espn.com/nfl/game/_/gameId/401547404/jaguars-colts
+https://www.espn.com/nfl/game/_/gameId/401547398/buccaneers-vikings
+https://www.espn.com/nfl/game/_/gameId/401547399/titans-saints
+https://www.espn.com/nfl/game/_/gameId/401547405/49ers-steelers
+https://www.espn.com/nfl/game/_/gameId/401547406/cardinals-commanders
+https://www.espn.com/nfl/game/_/gameId/401547396/texans-ravens
+https://www.espn.com/nfl/game/_/gameId/401547407/packers-bears
+https://www.espn.com/nfl/game/_/gameId/401547400/raiders-broncos
+https://www.espn.com/nfl/game/_/gameId/401547402/eagles-patriots
+https://www.espn.com/nfl/game/_/gameId/401547401/dolphins-chargers
+https://www.espn.com/nfl/game/_/gameId/401547408/rams-seahawks
+https://www.espn.com/nfl/game/_/gameId/401547409/cowboys-giants
+https://www.espn.com/nfl/game/_/gameId/401547352/bills-jets

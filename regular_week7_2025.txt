@@ -3,33 +3,33 @@
 # Use: python process_nfl_game_file.py regular_week7_2025.txt
 
 # 15 games scheduled for this week
-# PIT @ CIN - 2025-10-17T00:15Z
+# PIT @ CIN - 2025-10-17
 https://www.espn.com/nfl/game/_/gameId/401772941
-# LAR @ JAX - 2025-10-19T13:30Z
+# LAR @ JAX - 2025-10-19
 https://www.espn.com/nfl/game/_/gameId/401772635
-# NO @ CHI - 2025-10-19T17:00Z
+# NO @ CHI - 2025-10-19
 https://www.espn.com/nfl/game/_/gameId/401772861
-# MIA @ CLE - 2025-10-19T17:00Z
+# MIA @ CLE - 2025-10-19
 https://www.espn.com/nfl/game/_/gameId/401772754
-# NE @ TEN - 2025-10-19T17:00Z
+# NE @ TEN - 2025-10-19
 https://www.espn.com/nfl/game/_/gameId/401772755
-# LV @ KC - 2025-10-19T17:00Z
+# LV @ KC - 2025-10-19
 https://www.espn.com/nfl/game/_/gameId/401772753
-# PHI @ MIN - 2025-10-19T17:00Z
+# PHI @ MIN - 2025-10-19
 https://www.espn.com/nfl/game/_/gameId/401772862
-# CAR @ NYJ - 2025-10-19T17:00Z
+# CAR @ NYJ - 2025-10-19
 https://www.espn.com/nfl/game/_/gameId/401772860
-# NYG @ DEN - 2025-10-19T20:05Z
+# NYG @ DEN - 2025-10-19
 https://www.espn.com/nfl/game/_/gameId/401772757
-# IND @ LAC - 2025-10-19T20:05Z
+# IND @ LAC - 2025-10-19
 https://www.espn.com/nfl/game/_/gameId/401772756
-# WSH @ DAL - 2025-10-19T20:25Z
+# WSH @ DAL - 2025-10-19
 https://www.espn.com/nfl/game/_/gameId/401772864
-# GB @ ARI - 2025-10-19T20:25Z
+# GB @ ARI - 2025-10-19
 https://www.espn.com/nfl/game/_/gameId/401772863
-# ATL @ SF - 2025-10-20T00:20Z
+# ATL @ SF - 2025-10-20
 https://www.espn.com/nfl/game/_/gameId/401772924
-# TB @ DET - 2025-10-20T23:00Z
+# TB @ DET - 2025-10-20
 https://www.espn.com/nfl/game/_/gameId/401772816
-# HOU @ SEA - 2025-10-21T02:00Z
+# HOU @ SEA - 2025-10-21
 https://www.espn.com/nfl/game/_/gameId/401772826

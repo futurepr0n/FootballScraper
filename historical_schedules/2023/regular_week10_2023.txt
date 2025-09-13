@@ -1,0 +1,20 @@
+# NFL Regular Week 10, 2023 Game URLs
+# Generated: 2025-09-09T20:52:20.079642
+# Format: One ESPN game URL per line
+# Use: python process_nfl_game_file.py regular_week10_2023.txt
+
+# 14 games scheduled for this week
+https://www.espn.com/nfl/game/_/gameId/401547525/panthers-bears
+https://www.espn.com/nfl/game/_/gameId/401547231/colts-patriots
+https://www.espn.com/nfl/game/_/gameId/401547526/texans-bengals
+https://www.espn.com/nfl/game/_/gameId/401547533/saints-vikings
+https://www.espn.com/nfl/game/_/gameId/401547527/packers-steelers
+https://www.espn.com/nfl/game/_/gameId/401547528/titans-buccaneers
+https://www.espn.com/nfl/game/_/gameId/401547532/49ers-jaguars
+https://www.espn.com/nfl/game/_/gameId/401547531/browns-ravens
+https://www.espn.com/nfl/game/_/gameId/401547529/falcons-cardinals
+https://www.espn.com/nfl/game/_/gameId/401547530/lions-chargers
+https://www.espn.com/nfl/game/_/gameId/401547534/giants-cowboys
+https://www.espn.com/nfl/game/_/gameId/401547535/commanders-seahawks
+https://www.espn.com/nfl/game/_/gameId/401547536/jets-raiders
+https://www.espn.com/nfl/game/_/gameId/401547537/broncos-bills

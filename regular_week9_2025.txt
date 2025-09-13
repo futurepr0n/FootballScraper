@@ -3,31 +3,31 @@
 # Use: python process_nfl_game_file.py regular_week9_2025.txt
 
 # 14 games scheduled for this week
-# BAL @ MIA - 2025-10-31T00:15Z
+# BAL @ MIA - 2025-10-31
 https://www.espn.com/nfl/game/_/gameId/401772943
-# CHI @ CIN - 2025-11-02T18:00Z
+# CHI @ CIN - 2025-11-02
 https://www.espn.com/nfl/game/_/gameId/401772765
-# MIN @ DET - 2025-11-02T18:00Z
+# MIN @ DET - 2025-11-02
 https://www.espn.com/nfl/game/_/gameId/401772871
-# CAR @ GB - 2025-11-02T18:00Z
+# CAR @ GB - 2025-11-02
 https://www.espn.com/nfl/game/_/gameId/401772872
-# LAC @ TEN - 2025-11-02T18:00Z
+# LAC @ TEN - 2025-11-02
 https://www.espn.com/nfl/game/_/gameId/401772764
-# ATL @ NE - 2025-11-02T18:00Z
+# ATL @ NE - 2025-11-02
 https://www.espn.com/nfl/game/_/gameId/401772763
-# SF @ NYG - 2025-11-02T18:00Z
+# SF @ NYG - 2025-11-02
 https://www.espn.com/nfl/game/_/gameId/401772767
-# IND @ PIT - 2025-11-02T18:00Z
+# IND @ PIT - 2025-11-02
 https://www.espn.com/nfl/game/_/gameId/401772766
-# DEN @ HOU - 2025-11-02T18:00Z
+# DEN @ HOU - 2025-11-02
 https://www.espn.com/nfl/game/_/gameId/401772870
-# JAX @ LV - 2025-11-02T21:05Z
+# JAX @ LV - 2025-11-02
 https://www.espn.com/nfl/game/_/gameId/401772873
-# NO @ LAR - 2025-11-02T21:05Z
+# NO @ LAR - 2025-11-02
 https://www.espn.com/nfl/game/_/gameId/401772874
-# KC @ BUF - 2025-11-02T21:25Z
+# KC @ BUF - 2025-11-02
 https://www.espn.com/nfl/game/_/gameId/401772768
-# SEA @ WSH - 2025-11-03T01:20Z
+# SEA @ WSH - 2025-11-03
 https://www.espn.com/nfl/game/_/gameId/401772926
-# ARI @ DAL - 2025-11-04T01:15Z
+# ARI @ DAL - 2025-11-04
 https://www.espn.com/nfl/game/_/gameId/401772818

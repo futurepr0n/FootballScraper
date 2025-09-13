@@ -1,0 +1,19 @@
+# NFL Regular Week 7, 2023 Game URLs
+# Generated: 2025-09-09T20:52:20.078684
+# Format: One ESPN game URL per line
+# Use: python process_nfl_game_file.py regular_week7_2023.txt
+
+# 13 games scheduled for this week
+https://www.espn.com/nfl/game/_/gameId/401547483/jaguars-saints
+https://www.espn.com/nfl/game/_/gameId/401547490/raiders-bears
+https://www.espn.com/nfl/game/_/gameId/401547484/browns-colts
+https://www.espn.com/nfl/game/_/gameId/401547485/bills-patriots
+https://www.espn.com/nfl/game/_/gameId/401547486/commanders-giants
+https://www.espn.com/nfl/game/_/gameId/401547491/falcons-buccaneers
+https://www.espn.com/nfl/game/_/gameId/401547489/lions-ravens
+https://www.espn.com/nfl/game/_/gameId/401547492/steelers-rams
+https://www.espn.com/nfl/game/_/gameId/401547493/cardinals-seahawks
+https://www.espn.com/nfl/game/_/gameId/401547487/packers-broncos
+https://www.espn.com/nfl/game/_/gameId/401547488/chargers-chiefs
+https://www.espn.com/nfl/game/_/gameId/401547494/dolphins-eagles
+https://www.espn.com/nfl/game/_/gameId/401547495/49ers-vikings

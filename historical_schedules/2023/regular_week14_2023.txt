@@ -1,0 +1,21 @@
+# NFL Regular Week 14, 2023 Game URLs
+# Generated: 2025-09-09T20:52:20.080919
+# Format: One ESPN game URL per line
+# Use: python process_nfl_game_file.py regular_week14_2023.txt
+
+# 15 games scheduled for this week
+https://www.espn.com/nfl/game/_/gameId/401547578/patriots-steelers
+https://www.espn.com/nfl/game/_/gameId/401547579/buccaneers-falcons
+https://www.espn.com/nfl/game/_/gameId/401547586/lions-bears
+https://www.espn.com/nfl/game/_/gameId/401547580/colts-bengals
+https://www.espn.com/nfl/game/_/gameId/401547581/jaguars-browns
+https://www.espn.com/nfl/game/_/gameId/401547587/panthers-saints
+https://www.espn.com/nfl/game/_/gameId/401547582/texans-jets
+https://www.espn.com/nfl/game/_/gameId/401547585/rams-ravens
+https://www.espn.com/nfl/game/_/gameId/401547588/vikings-raiders
+https://www.espn.com/nfl/game/_/gameId/401547589/seahawks-49ers
+https://www.espn.com/nfl/game/_/gameId/401547583/bills-chiefs
+https://www.espn.com/nfl/game/_/gameId/401547584/broncos-chargers
+https://www.espn.com/nfl/game/_/gameId/401547590/eagles-cowboys
+https://www.espn.com/nfl/game/_/gameId/401547592/titans-dolphins
+https://www.espn.com/nfl/game/_/gameId/401547591/packers-giants

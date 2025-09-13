@@ -1,0 +1,8 @@
+# NFL Playoffs Week 3, 2024 Game URLs
+# Generated: 2025-09-09T22:49:15.862525
+# Format: One ESPN game URL per line
+# Use: python process_nfl_game_file.py playoffs_week3_2024.txt
+
+# 2 games scheduled for this week
+https://www.espn.com/nfl/game/_/gameId/401671888/commanders-eagles
+https://www.espn.com/nfl/game/_/gameId/401671887/bills-chiefs

@@ -1,0 +1,22 @@
+# NFL Regular Week 8, 2023 Game URLs
+# Generated: 2025-09-09T20:52:20.079001
+# Format: One ESPN game URL per line
+# Use: python process_nfl_game_file.py regular_week8_2023.txt
+
+# 16 games scheduled for this week
+https://www.espn.com/nfl/game/_/gameId/401547496/buccaneers-bills
+https://www.espn.com/nfl/game/_/gameId/401547505/rams-cowboys
+https://www.espn.com/nfl/game/_/gameId/401547506/vikings-packers
+https://www.espn.com/nfl/game/_/gameId/401547500/falcons-titans
+https://www.espn.com/nfl/game/_/gameId/401547507/saints-colts
+https://www.espn.com/nfl/game/_/gameId/401547497/patriots-dolphins
+https://www.espn.com/nfl/game/_/gameId/401547498/jets-giants
+https://www.espn.com/nfl/game/_/gameId/401547499/jaguars-steelers
+https://www.espn.com/nfl/game/_/gameId/401547508/eagles-commanders
+https://www.espn.com/nfl/game/_/gameId/401547504/texans-panthers
+https://www.espn.com/nfl/game/_/gameId/401547509/browns-seahawks
+https://www.espn.com/nfl/game/_/gameId/401547502/chiefs-broncos
+https://www.espn.com/nfl/game/_/gameId/401547501/ravens-cardinals
+https://www.espn.com/nfl/game/_/gameId/401547503/bengals-49ers
+https://www.espn.com/nfl/game/_/gameId/401547510/bears-chargers
+https://www.espn.com/nfl/game/_/gameId/401547511/raiders-lions

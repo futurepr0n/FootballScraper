@@ -1,0 +1,27 @@
+# NFL Playoffs Season 2023 - All Game URLs
+# Generated: 2025-09-09T22:17:09.679556
+
+
+# Week 1 (6 games)
+https://www.espn.com/nfl/game/_/gameId/401547749/browns-texans
+https://www.espn.com/nfl/game/_/gameId/401547750/dolphins-chiefs
+https://www.espn.com/nfl/game/_/gameId/401547752/packers-cowboys
+https://www.espn.com/nfl/game/_/gameId/401547753/rams-lions
+https://www.espn.com/nfl/game/_/gameId/401547751/steelers-bills
+https://www.espn.com/nfl/game/_/gameId/401547754/eagles-buccaneers
+
+# Week 2 (4 games)
+https://www.espn.com/nfl/game/_/gameId/401547755/texans-ravens
+https://www.espn.com/nfl/game/_/gameId/401547756/packers-49ers
+https://www.espn.com/nfl/game/_/gameId/401547757/buccaneers-lions
+https://www.espn.com/nfl/game/_/gameId/401547758/chiefs-bills
+
+# Week 3 (2 games)
+https://www.espn.com/nfl/game/_/gameId/401547379/chiefs-ravens
+https://www.espn.com/nfl/game/_/gameId/401547380/lions-49ers
+
+# Week 4 (1 games)
+https://www.espn.com/nfl/game/_/gameId/401616889/nfc-afc
+
+# Week 5 (1 games)
+https://www.espn.com/nfl/game/_/gameId/401547378/49ers-chiefs

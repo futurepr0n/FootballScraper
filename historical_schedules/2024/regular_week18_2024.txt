@@ -1,0 +1,22 @@
+# NFL Regular Week 18, 2024 Game URLs
+# Generated: 2025-09-09T22:48:40.446642
+# Format: One ESPN game URL per line
+# Use: python process_nfl_game_file.py regular_week18_2024.txt
+
+# 16 games scheduled for this week
+https://www.espn.com/nfl/game/_/gameId/401671834/browns-ravens
+https://www.espn.com/nfl/game/_/gameId/401671836/bengals-steelers
+https://www.espn.com/nfl/game/_/gameId/401671827/panthers-falcons
+https://www.espn.com/nfl/game/_/gameId/401671840/commanders-cowboys
+https://www.espn.com/nfl/game/_/gameId/401671844/bears-packers
+https://www.espn.com/nfl/game/_/gameId/401671826/texans-titans
+https://www.espn.com/nfl/game/_/gameId/401671837/jaguars-colts
+https://www.espn.com/nfl/game/_/gameId/401671831/bills-patriots
+https://www.espn.com/nfl/game/_/gameId/401671841/giants-eagles
+https://www.espn.com/nfl/game/_/gameId/401671828/saints-buccaneers
+https://www.espn.com/nfl/game/_/gameId/401671838/chiefs-broncos
+https://www.espn.com/nfl/game/_/gameId/401671839/chargers-raiders
+https://www.espn.com/nfl/game/_/gameId/401671830/seahawks-rams
+https://www.espn.com/nfl/game/_/gameId/401671833/dolphins-jets
+https://www.espn.com/nfl/game/_/gameId/401671845/49ers-cardinals
+https://www.espn.com/nfl/game/_/gameId/401671843/vikings-lions

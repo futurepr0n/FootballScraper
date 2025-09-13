@@ -1,0 +1,7 @@
+# NFL Playoffs Week 5, 2024 Game URLs
+# Generated: 2025-09-09T22:49:15.863214
+# Format: One ESPN game URL per line
+# Use: python process_nfl_game_file.py playoffs_week5_2024.txt
+
+# 1 games scheduled for this week
+https://www.espn.com/nfl/game/_/gameId/401671889/chiefs-eagles

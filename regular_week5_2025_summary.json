@@ -2,23 +2,13 @@
   "season_type": "regular",
   "week": 5,
   "year": 2025,
-  "total_games": 15,
-  "generated_date": "2025-08-24T00:33:54.728977",
+  "total_games": 14,
+  "generated_date": "2025-09-13T16:25:11.370Z",
   "games": [
-    {
-      "url": "https://www.espn.com/nfl/game/_/gameId/401671889",
-      "game_id": "401671889",
-      "date": "2025-02-09T23:30Z",
-      "week": 5,
-      "season_type": 3,
-      "away_team": "KC",
-      "home_team": "PHI",
-      "matchup": "KC @ PHI"
-    },
     {
       "url": "https://www.espn.com/nfl/game/_/gameId/401772939",
       "game_id": "401772939",
-      "date": "2025-10-03T00:15Z",
+      "date": "2025-10-03T17:00:00Z",
       "week": 5,
       "season_type": 2,
       "away_team": "SF",
@@ -26,9 +16,19 @@
       "matchup": "SF @ LAR"
     },
     {
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772854",
+      "game_id": "401772854",
+      "date": "2025-10-05T17:00:00Z",
+      "week": 5,
+      "season_type": 2,
+      "away_team": "DET",
+      "home_team": "CIN",
+      "matchup": "DET @ CIN"
+    },
+    {
       "url": "https://www.espn.com/nfl/game/_/gameId/401772633",
       "game_id": "401772633",
-      "date": "2025-10-05T13:30Z",
+      "date": "2025-10-05T17:00:00Z",
       "week": 5,
       "season_type": 2,
       "away_team": "MIN",
@@ -38,7 +38,7 @@
     {
       "url": "https://www.espn.com/nfl/game/_/gameId/401772851",
       "game_id": "401772851",
-      "date": "2025-10-05T17:00Z",
+      "date": "2025-10-05T17:00:00Z",
       "week": 5,
       "season_type": 2,
       "away_team": "LV",
@@ -48,7 +48,7 @@
     {
       "url": "https://www.espn.com/nfl/game/_/gameId/401772744",
       "game_id": "401772744",
-      "date": "2025-10-05T17:00Z",
+      "date": "2025-10-05T17:00:00Z",
       "week": 5,
       "season_type": 2,
       "away_team": "NYG",
@@ -58,7 +58,7 @@
     {
       "url": "https://www.espn.com/nfl/game/_/gameId/401772850",
       "game_id": "401772850",
-      "date": "2025-10-05T17:00Z",
+      "date": "2025-10-05T17:00:00Z",
       "week": 5,
       "season_type": 2,
       "away_team": "DAL",
@@ -68,7 +68,7 @@
     {
       "url": "https://www.espn.com/nfl/game/_/gameId/401772745",
       "game_id": "401772745",
-      "date": "2025-10-05T17:00Z",
+      "date": "2025-10-05T17:00:00Z",
       "week": 5,
       "season_type": 2,
       "away_team": "DEN",
@@ -78,7 +78,7 @@
     {
       "url": "https://www.espn.com/nfl/game/_/gameId/401772852",
       "game_id": "401772852",
-      "date": "2025-10-05T17:00Z",
+      "date": "2025-10-05T17:00:00Z",
       "week": 5,
       "season_type": 2,
       "away_team": "MIA",
@@ -88,7 +88,7 @@
     {
       "url": "https://www.espn.com/nfl/game/_/gameId/401772743",
       "game_id": "401772743",
-      "date": "2025-10-05T17:00Z",
+      "date": "2025-10-05T17:00:00Z",
       "week": 5,
       "season_type": 2,
       "away_team": "HOU",
@@ -98,7 +98,7 @@
     {
       "url": "https://www.espn.com/nfl/game/_/gameId/401772747",
       "game_id": "401772747",
-      "date": "2025-10-05T20:05Z",
+      "date": "2025-10-05T17:00:00Z",
       "week": 5,
       "season_type": 2,
       "away_team": "TEN",
@@ -108,7 +108,7 @@
     {
       "url": "https://www.espn.com/nfl/game/_/gameId/401772746",
       "game_id": "401772746",
-      "date": "2025-10-05T20:05Z",
+      "date": "2025-10-05T17:00:00Z",
       "week": 5,
       "season_type": 2,
       "away_team": "TB",
@@ -116,19 +116,9 @@
       "matchup": "TB @ SEA"
     },
     {
-      "url": "https://www.espn.com/nfl/game/_/gameId/401772854",
-      "game_id": "401772854",
-      "date": "2025-10-05T20:25Z",
-      "week": 5,
-      "season_type": 2,
-      "away_team": "DET",
-      "home_team": "CIN",
-      "matchup": "DET @ CIN"
-    },
-    {
       "url": "https://www.espn.com/nfl/game/_/gameId/401772853",
       "game_id": "401772853",
-      "date": "2025-10-05T20:25Z",
+      "date": "2025-10-05T17:00:00Z",
       "week": 5,
       "season_type": 2,
       "away_team": "WSH",
@@ -138,7 +128,7 @@
     {
       "url": "https://www.espn.com/nfl/game/_/gameId/401772922",
       "game_id": "401772922",
-      "date": "2025-10-06T00:20Z",
+      "date": "2025-10-06T17:00:00Z",
       "week": 5,
       "season_type": 2,
       "away_team": "NE",
@@ -148,7 +138,7 @@
     {
       "url": "https://www.espn.com/nfl/game/_/gameId/401772814",
       "game_id": "401772814",
-      "date": "2025-10-07T00:15Z",
+      "date": "2025-10-07T17:00:00Z",
       "week": 5,
       "season_type": 2,
       "away_team": "KC",

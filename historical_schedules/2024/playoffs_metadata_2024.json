@@ -1,0 +1,129 @@
+{
+  "year": 2024,
+  "season_type": 3,
+  "season_type_name": "playoffs",
+  "weeks": {
+    "1": [
+      {
+        "game_id": "401671878",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401671878/chargers-texans",
+        "year": 2024,
+        "week": 1,
+        "season_type": 3,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401671879",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401671879/steelers-ravens",
+        "year": 2024,
+        "week": 1,
+        "season_type": 3,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401671881",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401671881/broncos-bills",
+        "year": 2024,
+        "week": 1,
+        "season_type": 3,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401671880",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401671880/packers-eagles",
+        "year": 2024,
+        "week": 1,
+        "season_type": 3,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401671883",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401671883/commanders-buccaneers",
+        "year": 2024,
+        "week": 1,
+        "season_type": 3,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401671882",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401671882/vikings-rams",
+        "year": 2024,
+        "week": 1,
+        "season_type": 3,
+        "teams_text": ""
+      }
+    ],
+    "2": [
+      {
+        "game_id": "401671884",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401671884/texans-chiefs",
+        "year": 2024,
+        "week": 2,
+        "season_type": 3,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401671885",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401671885/commanders-lions",
+        "year": 2024,
+        "week": 2,
+        "season_type": 3,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401671937",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401671937/rams-eagles",
+        "year": 2024,
+        "week": 2,
+        "season_type": 3,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401671886",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401671886/ravens-bills",
+        "year": 2024,
+        "week": 2,
+        "season_type": 3,
+        "teams_text": ""
+      }
+    ],
+    "3": [
+      {
+        "game_id": "401671888",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401671888/commanders-eagles",
+        "year": 2024,
+        "week": 3,
+        "season_type": 3,
+        "teams_text": ""
+      },
+      {
+        "game_id": "401671887",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401671887/bills-chiefs",
+        "year": 2024,
+        "week": 3,
+        "season_type": 3,
+        "teams_text": ""
+      }
+    ],
+    "4": [
+      {
+        "game_id": "401701113",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401701113/afc-nfc",
+        "year": 2024,
+        "week": 4,
+        "season_type": 3,
+        "teams_text": ""
+      }
+    ],
+    "5": [
+      {
+        "game_id": "401671889",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401671889/chiefs-eagles",
+        "year": 2024,
+        "week": 5,
+        "season_type": 3,
+        "teams_text": ""
+      }
+    ]
+  }
+}

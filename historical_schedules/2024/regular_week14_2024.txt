@@ -1,0 +1,19 @@
+# NFL Regular Week 14, 2024 Game URLs
+# Generated: 2025-09-09T22:48:40.445220
+# Format: One ESPN game URL per line
+# Use: python process_nfl_game_file.py regular_week14_2024.txt
+
+# 13 games scheduled for this week
+https://www.espn.com/nfl/game/_/gameId/401671814/packers-lions
+https://www.espn.com/nfl/game/_/gameId/401671821/jaguars-titans
+https://www.espn.com/nfl/game/_/gameId/401671848/jets-dolphins
+https://www.espn.com/nfl/game/_/gameId/401671648/falcons-vikings
+https://www.espn.com/nfl/game/_/gameId/401671601/saints-giants
+https://www.espn.com/nfl/game/_/gameId/401671713/panthers-eagles
+https://www.espn.com/nfl/game/_/gameId/401671631/browns-steelers
+https://www.espn.com/nfl/game/_/gameId/401671654/raiders-buccaneers
+https://www.espn.com/nfl/game/_/gameId/401671660/seahawks-cardinals
+https://www.espn.com/nfl/game/_/gameId/401671773/bills-rams
+https://www.espn.com/nfl/game/_/gameId/401671774/bears-49ers
+https://www.espn.com/nfl/game/_/gameId/401671788/chargers-chiefs
+https://www.espn.com/nfl/game/_/gameId/401671690/bengals-cowboys

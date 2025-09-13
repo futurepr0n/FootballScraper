@@ -1,0 +1,10 @@
+# NFL Playoffs Week 2, 2023 Game URLs
+# Generated: 2025-09-09T22:17:09.677985
+# Format: One ESPN game URL per line
+# Use: python process_nfl_game_file.py playoffs_week2_2023.txt
+
+# 4 games scheduled for this week
+https://www.espn.com/nfl/game/_/gameId/401547755/texans-ravens
+https://www.espn.com/nfl/game/_/gameId/401547756/packers-49ers
+https://www.espn.com/nfl/game/_/gameId/401547757/buccaneers-lions
+https://www.espn.com/nfl/game/_/gameId/401547758/chiefs-bills

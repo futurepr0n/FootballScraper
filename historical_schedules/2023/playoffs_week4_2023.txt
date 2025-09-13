@@ -1,0 +1,7 @@
+# NFL Playoffs Week 4, 2023 Game URLs
+# Generated: 2025-09-09T22:17:09.678789
+# Format: One ESPN game URL per line
+# Use: python process_nfl_game_file.py playoffs_week4_2023.txt
+
+# 1 games scheduled for this week
+https://www.espn.com/nfl/game/_/gameId/401616889/nfc-afc

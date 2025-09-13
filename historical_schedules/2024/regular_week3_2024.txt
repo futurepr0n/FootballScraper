@@ -1,0 +1,22 @@
+# NFL Regular Week 3, 2024 Game URLs
+# Generated: 2025-09-09T22:48:40.440697
+# Format: One ESPN game URL per line
+# Use: python process_nfl_game_file.py regular_week3_2024.txt
+
+# 16 games scheduled for this week
+https://www.espn.com/nfl/game/_/gameId/401671808/patriots-jets
+https://www.espn.com/nfl/game/_/gameId/401671855/giants-browns
+https://www.espn.com/nfl/game/_/gameId/401671823/packers-titans
+https://www.espn.com/nfl/game/_/gameId/401671865/bears-colts
+https://www.espn.com/nfl/game/_/gameId/401671646/texans-vikings
+https://www.espn.com/nfl/game/_/gameId/401671736/eagles-saints
+https://www.espn.com/nfl/game/_/gameId/401671632/chargers-steelers
+https://www.espn.com/nfl/game/_/gameId/401671741/broncos-buccaneers
+https://www.espn.com/nfl/game/_/gameId/401671658/panthers-raiders
+https://www.espn.com/nfl/game/_/gameId/401671662/dolphins-seahawks
+https://www.espn.com/nfl/game/_/gameId/401671763/ravens-cowboys
+https://www.espn.com/nfl/game/_/gameId/401671772/49ers-rams
+https://www.espn.com/nfl/game/_/gameId/401671771/lions-cardinals
+https://www.espn.com/nfl/game/_/gameId/401671793/chiefs-falcons
+https://www.espn.com/nfl/game/_/gameId/401671682/jaguars-bills
+https://www.espn.com/nfl/game/_/gameId/401671490/commanders-bengals

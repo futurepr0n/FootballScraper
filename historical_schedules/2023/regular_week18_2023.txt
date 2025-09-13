@@ -1,0 +1,22 @@
+# NFL Regular Week 18, 2023 Game URLs
+# Generated: 2025-09-09T20:52:20.082235
+# Format: One ESPN game URL per line
+# Use: python process_nfl_game_file.py regular_week18_2023.txt
+
+# 16 games scheduled for this week
+https://www.espn.com/nfl/game/_/gameId/401547639/steelers-ravens
+https://www.espn.com/nfl/game/_/gameId/401547644/texans-colts
+https://www.espn.com/nfl/game/_/gameId/401547641/browns-bengals
+https://www.espn.com/nfl/game/_/gameId/401547642/vikings-lions
+https://www.espn.com/nfl/game/_/gameId/401547652/jaguars-titans
+https://www.espn.com/nfl/game/_/gameId/401547648/jets-patriots
+https://www.espn.com/nfl/game/_/gameId/401547649/falcons-saints
+https://www.espn.com/nfl/game/_/gameId/401547640/buccaneers-panthers
+https://www.espn.com/nfl/game/_/gameId/401547643/bears-packers
+https://www.espn.com/nfl/game/_/gameId/401547646/broncos-raiders
+https://www.espn.com/nfl/game/_/gameId/401547650/eagles-giants
+https://www.espn.com/nfl/game/_/gameId/401547638/seahawks-cardinals
+https://www.espn.com/nfl/game/_/gameId/401547645/chiefs-chargers
+https://www.espn.com/nfl/game/_/gameId/401547651/rams-49ers
+https://www.espn.com/nfl/game/_/gameId/401547653/cowboys-commanders
+https://www.espn.com/nfl/game/_/gameId/401547647/bills-dolphins

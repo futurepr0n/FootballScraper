@@ -3,8 +3,6 @@
 # Use: python process_nfl_game_file.py preseason_week4_2025.txt
 
 # 33 games scheduled for this week
-# LV @ ARI - 2025-08-24T02:00Z
-https://www.espn.com/nfl/game/_/gameId/401774590
 # AFC @ NFC - 2025-02-02T20:00Z
 https://www.espn.com/nfl/game/_/gameId/401701113
 # PIT @ CAR - 2025-08-21T23:00Z
@@ -37,6 +35,8 @@ https://www.espn.com/nfl/game/_/gameId/401776565
 https://www.espn.com/nfl/game/_/gameId/401774030
 # LAC @ SF - 2025-08-24T00:30Z
 https://www.espn.com/nfl/game/_/gameId/401776567
+# LV @ ARI - 2025-08-24T02:00Z
+https://www.espn.com/nfl/game/_/gameId/401774590
 # SEA @ ARI - 2025-09-26T00:15Z
 https://www.espn.com/nfl/game/_/gameId/401772938
 # MIN @ PIT - 2025-09-28T13:30Z

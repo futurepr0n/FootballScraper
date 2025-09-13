@@ -1,0 +1,20 @@
+# NFL Regular Week 5, 2023 Game URLs
+# Generated: 2025-09-09T20:52:20.078040
+# Format: One ESPN game URL per line
+# Use: python process_nfl_game_file.py regular_week5_2023.txt
+
+# 14 games scheduled for this week
+https://www.espn.com/nfl/game/_/gameId/401547457/bears-commanders
+https://www.espn.com/nfl/game/_/gameId/401547228/jaguars-bills
+https://www.espn.com/nfl/game/_/gameId/401547463/texans-falcons
+https://www.espn.com/nfl/game/_/gameId/401547464/panthers-lions
+https://www.espn.com/nfl/game/_/gameId/401547458/titans-colts
+https://www.espn.com/nfl/game/_/gameId/401547465/giants-dolphins
+https://www.espn.com/nfl/game/_/gameId/401547459/saints-patriots
+https://www.espn.com/nfl/game/_/gameId/401547460/ravens-steelers
+https://www.espn.com/nfl/game/_/gameId/401547467/eagles-rams
+https://www.espn.com/nfl/game/_/gameId/401547466/bengals-cardinals
+https://www.espn.com/nfl/game/_/gameId/401547461/jets-broncos
+https://www.espn.com/nfl/game/_/gameId/401547462/chiefs-vikings
+https://www.espn.com/nfl/game/_/gameId/401547354/cowboys-49ers
+https://www.espn.com/nfl/game/_/gameId/401547468/packers-raiders
