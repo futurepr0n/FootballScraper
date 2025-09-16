@@ -1,0 +1,39 @@
+# NFL Regular Week 1, 2025 Game URLs
+# Format: One ESPN game URL per line
+# Use: python process_nfl_game_file.py week1_2025_corrected.txt
+
+# 17 games scheduled for this week
+# LAC @ KC - 2025-09-05 (Friday in Brazil)
+https://www.espn.com/nfl/game/_/gameId/401772714
+# PIT @ NYJ - 2025-09-07 (Sunday)
+https://www.espn.com/nfl/game/_/gameId/401772721
+# BAL @ BUF - 2025-09-07 (Sunday)
+https://www.espn.com/nfl/game/_/gameId/401772918
+# ATL @ TB - 2025-09-07 (Sunday)
+https://www.espn.com/nfl/game/_/gameId/401772830
+# DET @ GB - 2025-09-07 (Sunday)
+https://www.espn.com/nfl/game/_/gameId/401772722
+# MIN @ CHI - 2025-09-08 (Monday Night)
+https://www.espn.com/nfl/game/_/gameId/401772810
+# CLE @ CIN - 2025-09-07 (Sunday)
+https://www.espn.com/nfl/game/_/gameId/401772829
+# JAX @ CAR - 2025-09-07 (Sunday)
+https://www.espn.com/nfl/game/_/gameId/401772828
+# HOU @ LAC - 2025-09-07 (Sunday)
+https://www.espn.com/nfl/game/_/gameId/401772723
+# IND @ MIA - 2025-09-07 (Sunday)
+https://www.espn.com/nfl/game/_/gameId/401772719
+# ARI @ NE - 2025-09-07 (Sunday)
+https://www.espn.com/nfl/game/_/gameId/401772718
+# NYG @ DAL - 2025-09-07 (Sunday)
+https://www.espn.com/nfl/game/_/gameId/401772720
+# SEA @ SF - 2025-09-07 (Sunday)
+https://www.espn.com/nfl/game/_/gameId/401772831
+# DEN @ NO - 2025-09-07 (Sunday)
+https://www.espn.com/nfl/game/_/gameId/401772832
+# PHI @ DAL - 2025-09-04 (Thursday Kickoff)
+https://www.espn.com/nfl/game/_/gameId/401772510
+# WAS @ NYG - 2025-09-07 (Sunday)
+https://www.espn.com/nfl/game/_/gameId/401772827
+# LAR @ DET - 2025-09-08 (Monday Night)
+https://www.espn.com/nfl/game/_/gameId/401772971

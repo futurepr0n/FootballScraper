@@ -1,169 +1,115 @@
 {
-  "season_type": "regular",
+  "success": true,
+  "file_path": "regular_week2_2025.txt",
+  "season": 2025,
+  "season_type": 2,
   "week": 2,
-  "year": 2025,
   "total_games": 16,
-  "generated_date": "2025-09-13T16:25:11.368Z",
-  "games": [
+  "processed": 1,
+  "failed": 15,
+  "created_files": [
+    "/Users/futurepr0n/Development/Capping.Pro/Revamp/FootballData/CSV_BACKUPS/nfl_WAS_passing_week2_20250913_401772936.csv",
+    "/Users/futurepr0n/Development/Capping.Pro/Revamp/FootballData/CSV_BACKUPS/nfl_WAS_rushing_week2_20250913_401772936.csv",
+    "/Users/futurepr0n/Development/Capping.Pro/Revamp/FootballData/CSV_BACKUPS/nfl_WAS_receiving_week2_20250913_401772936.csv",
+    "/Users/futurepr0n/Development/Capping.Pro/Revamp/FootballData/CSV_BACKUPS/nfl_WAS_kick returns_week2_20250913_401772936.csv",
+    "/Users/futurepr0n/Development/Capping.Pro/Revamp/FootballData/CSV_BACKUPS/nfl_WAS_punt returns_week2_20250913_401772936.csv",
+    "/Users/futurepr0n/Development/Capping.Pro/Revamp/FootballData/CSV_BACKUPS/nfl_WAS_kicking_week2_20250913_401772936.csv",
+    "/Users/futurepr0n/Development/Capping.Pro/Revamp/FootballData/CSV_BACKUPS/nfl_WAS_punting_week2_20250913_401772936.csv",
+    "/Users/futurepr0n/Development/Capping.Pro/Revamp/FootballData/CSV_BACKUPS/nfl_GB_bay passing_week2_20250913_401772936.csv",
+    "/Users/futurepr0n/Development/Capping.Pro/Revamp/FootballData/CSV_BACKUPS/nfl_GB_bay rushing_week2_20250913_401772936.csv",
+    "/Users/futurepr0n/Development/Capping.Pro/Revamp/FootballData/CSV_BACKUPS/nfl_GB_bay receiving_week2_20250913_401772936.csv",
+    "/Users/futurepr0n/Development/Capping.Pro/Revamp/FootballData/CSV_BACKUPS/nfl_GB_bay kick returns_week2_20250913_401772936.csv",
+    "/Users/futurepr0n/Development/Capping.Pro/Revamp/FootballData/CSV_BACKUPS/nfl_GB_bay punt returns_week2_20250913_401772936.csv",
+    "/Users/futurepr0n/Development/Capping.Pro/Revamp/FootballData/CSV_BACKUPS/nfl_GB_bay kicking_week2_20250913_401772936.csv",
+    "/Users/futurepr0n/Development/Capping.Pro/Revamp/FootballData/CSV_BACKUPS/nfl_GB_bay punting_week2_20250913_401772936.csv"
+  ],
+  "processed_games": [
     {
-      "url": "https://www.espn.com/nfl/game/_/gameId/401772936",
       "game_id": "401772936",
-      "date": "2025-09-13T17:00:00Z",
-      "week": 2,
+      "game_url": "https://www.espn.com/nfl/game/_/gameId/401772936",
+      "season": 2025,
       "season_type": 2,
-      "away_team": "WAS",
-      "home_team": "GB",
-      "matchup": "WAS @ GB"
-    },
+      "week": 2,
+      "status": "completed",
+      "away_team": "TBD",
+      "home_team": "TBD"
+    }
+  ],
+  "failed_games": [
     {
       "url": "https://www.espn.com/nfl/game/_/gameId/401772730",
       "game_id": "401772730",
-      "date": "2025-09-14T17:00:00Z",
-      "week": 2,
-      "season_type": 2,
-      "away_team": "CAR",
-      "home_team": "ARI",
-      "matchup": "CAR @ ARI"
+      "error": "No statistics found or game postponed"
     },
     {
       "url": "https://www.espn.com/nfl/game/_/gameId/401772729",
       "game_id": "401772729",
-      "date": "2025-09-14T17:00:00Z",
-      "week": 2,
-      "season_type": 2,
-      "away_team": "DEN",
-      "home_team": "IND",
-      "matchup": "DEN @ IND"
+      "error": "No statistics found or game postponed"
     },
     {
       "url": "https://www.espn.com/nfl/game/_/gameId/401772726",
       "game_id": "401772726",
-      "date": "2025-09-14T17:00:00Z",
-      "week": 2,
-      "season_type": 2,
-      "away_team": "CLE",
-      "home_team": "BAL",
-      "matchup": "CLE @ BAL"
+      "error": "No statistics found or game postponed"
     },
     {
       "url": "https://www.espn.com/nfl/game/_/gameId/401772836",
       "game_id": "401772836",
-      "date": "2025-09-14T17:00:00Z",
-      "week": 2,
-      "season_type": 2,
-      "away_team": "SEA",
-      "home_team": "PIT",
-      "matchup": "SEA @ PIT"
+      "error": "No statistics found or game postponed"
     },
     {
       "url": "https://www.espn.com/nfl/game/_/gameId/401772727",
       "game_id": "401772727",
-      "date": "2025-09-14T17:00:00Z",
-      "week": 2,
-      "season_type": 2,
-      "away_team": "BUF",
-      "home_team": "NYJ",
-      "matchup": "BUF @ NYJ"
+      "error": "No statistics found or game postponed"
     },
     {
       "url": "https://www.espn.com/nfl/game/_/gameId/401772833",
       "game_id": "401772833",
-      "date": "2025-09-14T17:00:00Z",
-      "week": 2,
-      "season_type": 2,
-      "away_team": "SF",
-      "home_team": "NO",
-      "matchup": "SF @ NO"
+      "error": "No statistics found or game postponed"
     },
     {
       "url": "https://www.espn.com/nfl/game/_/gameId/401772728",
       "game_id": "401772728",
-      "date": "2025-09-14T17:00:00Z",
-      "week": 2,
-      "season_type": 2,
-      "away_team": "NE",
-      "home_team": "MIA",
-      "matchup": "NE @ MIA"
+      "error": "No statistics found or game postponed"
     },
     {
       "url": "https://www.espn.com/nfl/game/_/gameId/401772724",
       "game_id": "401772724",
-      "date": "2025-09-14T17:00:00Z",
-      "week": 2,
-      "season_type": 2,
-      "away_team": "LAR",
-      "home_team": "TEN",
-      "matchup": "LAR @ TEN"
+      "error": "No statistics found or game postponed"
     },
     {
       "url": "https://www.espn.com/nfl/game/_/gameId/401772835",
       "game_id": "401772835",
-      "date": "2025-09-14T17:00:00Z",
-      "week": 2,
-      "season_type": 2,
-      "away_team": "CHI",
-      "home_team": "DET",
-      "matchup": "CHI @ DET"
+      "error": "No statistics found or game postponed"
     },
     {
       "url": "https://www.espn.com/nfl/game/_/gameId/401772834",
       "game_id": "401772834",
-      "date": "2025-09-14T17:00:00Z",
-      "week": 2,
-      "season_type": 2,
-      "away_team": "NYG",
-      "home_team": "DAL",
-      "matchup": "NYG @ DAL"
+      "error": "No statistics found or game postponed"
     },
     {
       "url": "https://www.espn.com/nfl/game/_/gameId/401772725",
       "game_id": "401772725",
-      "date": "2025-09-14T17:00:00Z",
-      "week": 2,
-      "season_type": 2,
-      "away_team": "JAX",
-      "home_team": "CIN",
-      "matchup": "JAX @ CIN"
+      "error": "No statistics found or game postponed"
     },
     {
       "url": "https://www.espn.com/nfl/game/_/gameId/401772837",
       "game_id": "401772837",
-      "date": "2025-09-14T17:00:00Z",
-      "week": 2,
-      "season_type": 2,
-      "away_team": "PHI",
-      "home_team": "KC",
-      "matchup": "PHI @ KC"
+      "error": "No statistics found or game postponed"
     },
     {
       "url": "https://www.espn.com/nfl/game/_/gameId/401772715",
       "game_id": "401772715",
-      "date": "2025-09-15T17:00:00Z",
-      "week": 2,
-      "season_type": 2,
-      "away_team": "TB",
-      "home_team": "HOU",
-      "matchup": "TB @ HOU"
+      "error": "No statistics found or game postponed"
     },
     {
       "url": "https://www.espn.com/nfl/game/_/gameId/401772919",
       "game_id": "401772919",
-      "date": "2025-09-15T17:00:00Z",
-      "week": 2,
-      "season_type": 2,
-      "away_team": "ATL",
-      "home_team": "MIN",
-      "matchup": "ATL @ MIN"
+      "error": "No statistics found or game postponed"
     },
     {
       "url": "https://www.espn.com/nfl/game/_/gameId/401772811",
       "game_id": "401772811",
-      "date": "2025-09-16T17:00:00Z",
-      "week": 2,
-      "season_type": 2,
-      "away_team": "LAC",
-      "home_team": "LV",
-      "matchup": "LAC @ LV"
+      "error": "No statistics found or game postponed"
     }
   ]
 }

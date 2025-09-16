@@ -27,6 +27,37 @@ class CSVDatabaseLoader:
         )
         self.cursor = self.conn.cursor(cursor_factory=RealDictCursor)
         
+    def map_team_from_stat_category(self, team_abbr, stat_category, filename=None):
+        """Map team abbreviation based on stat category for special cases"""
+        # Handle ESPN scraper naming issues
+        if 'vegas' in stat_category.lower():
+            return 'LV'  # Las Vegas Raiders
+        elif 'orleans' in stat_category.lower():
+            return 'NO'  # New Orleans Saints
+        elif 'england' in stat_category.lower():
+            return 'NE'  # New England Patriots
+        elif 'angeles' in stat_category.lower():
+            # Special case: distinguish between LAC (Chargers) and LAR (Rams)
+            # If the team_abbr is already LAC, keep it as LAC (Chargers)
+            if team_abbr == 'LAC':
+                return 'LAC'  # Los Angeles Chargers
+            else:
+                return 'LAR'  # Los Angeles Rams (for other cases)
+        elif 'york' in stat_category.lower():
+            # Specific game context handling for NYJ vs NYG
+            if filename and '401776263' in filename:
+                # NYG @ BUF game - NE_york files are NYG
+                return 'NYG'  # New York Giants
+            else:
+                # Default to NYJ for other york games
+                return 'NYJ'  # New York Jets
+        elif team_abbr == 'NE' and filename:
+            # Handle TEN @ TB game where NE files (without york) should be TEN
+            if '401774029' in filename:
+                return 'TEN'  # Tennessee Titans
+        
+        return team_abbr
+        
     def get_or_create_team(self, team_abbr):
         """Get team ID, creating if necessary"""
         # Clean team abbreviation
@@ -120,6 +151,9 @@ class CSVDatabaseLoader:
         team_abbr = match.group(1)
         stat_category = match.group(2)
         game_id = match.group(5)
+        
+        # Map team abbreviation based on stat category (handle ESPN naming issues)
+        team_abbr = self.map_team_from_stat_category(team_abbr, stat_category, filename)
         
         # Skip TBD teams
         if team_abbr == 'TBD':

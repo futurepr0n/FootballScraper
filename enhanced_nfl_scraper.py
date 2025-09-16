@@ -90,6 +90,29 @@ def get_team_abbr(team_name: str) -> str:
     # Clean the team name
     cleaned_name = team_name.strip()
     
+    # Handle known ESPN malformed names first
+    cleaned_lower = cleaned_name.lower()
+    
+    # Special handling for angeles (distinguish LAC from LAR)
+    if 'angeles' in cleaned_lower:
+        # If it already starts with LAC, keep it as LAC (Chargers)
+        if cleaned_name.upper().startswith('LAC'):
+            return 'LAC'
+        else:
+            return 'LAR'  # Default angeles to Rams
+    
+    # Other ESPN malformed mappings
+    espn_malformed_mappings = {
+        'orleans': 'NO',  # "NE orleans" → "NO"
+        'vegas': 'LV',    # "DAL vegas" → "LV" 
+        'england': 'NE',  # "NE england" → "NE"
+    }
+    
+    # Check for other ESPN malformed patterns
+    for malformed_key, correct_abbr in espn_malformed_mappings.items():
+        if malformed_key in cleaned_lower:
+            return correct_abbr
+    
     # Direct lookup
     if cleaned_name in NFL_TEAM_ABBREVIATIONS:
         return NFL_TEAM_ABBREVIATIONS[cleaned_name]
@@ -101,9 +124,21 @@ def get_team_abbr(team_name: str) -> str:
         if nickname in NFL_TEAM_ABBREVIATIONS:
             return NFL_TEAM_ABBREVIATIONS[nickname]
     
-    # Fuzzy matching
+    # Try first word (for cases like "Dallas Cowboys")
+    if words:
+        first_word = words[0]
+        if first_word in NFL_TEAM_ABBREVIATIONS:
+            return NFL_TEAM_ABBREVIATIONS[first_word]
+    
+    # Enhanced fuzzy matching for city/team combinations
     for full_name, abbr in NFL_TEAM_ABBREVIATIONS.items():
-        if cleaned_name.lower() in full_name.lower() or full_name.lower() in cleaned_name.lower():
+        full_lower = full_name.lower()
+        # Check if any word in the team name matches
+        for word in words:
+            if word.lower() in full_lower:
+                return abbr
+        # Check reverse - if full name contains our word
+        if cleaned_lower in full_lower or full_lower in cleaned_lower:
             return abbr
     
     logger.warning(f"Team abbreviation not found for: '{team_name}', using default")
@@ -554,16 +589,33 @@ class EnhancedNFLScraper:
             team_name_full = team_name_tag.get_text(strip=True)
             logger.debug(f"Processing section: {team_name_full}")
             
-            # Parse team name and stat category (e.g., "Indianapolis Passing")
+            # Parse team name and stat category (e.g., "New Orleans Passing", "Las Vegas Rushing")
             if ' ' not in team_name_full:
                 logger.warning(f"Could not parse team and category from: '{team_name_full}'")
                 continue
             
-            parts = team_name_full.split(' ', 1)  # Split into team and category
-            team_name = parts[0]  # "Indianapolis" or "Baltimore"
-            stat_category = parts[1].lower()  # "passing", "rushing", etc.
+            # Handle compound team names properly
+            stat_keywords = ['passing', 'rushing', 'receiving', 'kicking', 'punting', 'punt returns', 
+                           'kick returns', 'fumbles', 'interceptions', 'defensive', 'defense']
             
-            # Get team abbreviation
+            team_name = team_name_full
+            stat_category = ""
+            
+            # Find the stat category by checking for known keywords from the end
+            for keyword in stat_keywords:
+                if team_name_full.lower().endswith(' ' + keyword):
+                    # Remove the keyword from the end to get team name
+                    team_name = team_name_full[:-len(' ' + keyword)].strip()
+                    stat_category = keyword.lower()
+                    break
+            
+            if not stat_category:
+                # Fallback to original split method if no keyword found
+                parts = team_name_full.rsplit(' ', 1)  # Split from right to get last word
+                team_name = parts[0]
+                stat_category = parts[1].lower()
+            
+            # Get team abbreviation using full team name
             team_abbr = get_team_abbr(team_name)
             
             logger.debug(f"Processing team: {team_name} ({team_abbr}), category: {stat_category}")
@@ -894,14 +946,51 @@ class EnhancedNFLScraper:
             return []
         
         created_files = []
-        date_str = datetime.now().strftime('%Y%m%d')
+        
+        # Use game date if available, otherwise fall back to current date
+        if 'game_date' in game_info and game_info['game_date']:
+            try:
+                # Parse the game date and format it as YYYYMMDD
+                game_date = game_info['game_date']
+                if isinstance(game_date, str):
+                    # Try parsing common date formats
+                    for fmt in ['%Y-%m-%d', '%m/%d/%Y', '%B %d, %Y']:
+                        try:
+                            parsed_date = datetime.strptime(game_date, fmt)
+                            date_str = parsed_date.strftime('%Y%m%d')
+                            break
+                        except ValueError:
+                            continue
+                    else:
+                        # If no format worked, extract numbers from string
+                        import re
+                        date_nums = re.findall(r'\d+', game_date)
+                        if len(date_nums) >= 3:
+                            # Try to construct date from numbers
+                            year = int(date_nums[0]) if len(date_nums[0]) == 4 else int(date_nums[2])
+                            month = int(date_nums[1]) if len(date_nums[0]) == 4 else int(date_nums[0])
+                            day = int(date_nums[2]) if len(date_nums[0]) == 4 else int(date_nums[1])
+                            date_str = f"{year:04d}{month:02d}{day:02d}"
+                        else:
+                            date_str = datetime.now().strftime('%Y%m%d')
+                elif hasattr(game_date, 'strftime'):
+                    date_str = game_date.strftime('%Y%m%d')
+                else:
+                    date_str = datetime.now().strftime('%Y%m%d')
+            except Exception as e:
+                logger.warning(f"Error parsing game date '{game_info.get('game_date')}': {e}")
+                date_str = datetime.now().strftime('%Y%m%d')
+        else:
+            date_str = datetime.now().strftime('%Y%m%d')
         
         # Save data for each team and stat category
         for team_abbr, team_data in all_teams_data.items():
             for stat_category, player_stats in team_data.items():
                 if isinstance(player_stats, list) and player_stats:
                     # Create filename: nfl_TEAM_CATEGORY_week#_DATE_GAMEID.csv
-                    filename = f"nfl_{team_abbr.upper()}_{stat_category}_week{game_info['week']}_{date_str}_{game_info['game_id']}.csv"
+                    # Use proper team abbreviation (no compound names in filename)
+                    clean_team_abbr = team_abbr.upper().replace(' ', '_')
+                    filename = f"nfl_{clean_team_abbr}_{stat_category}_week{game_info['week']}_{date_str}_{game_info['game_id']}.csv"
                     csv_path = output_dir / filename
                     
                     # Create DataFrame and save

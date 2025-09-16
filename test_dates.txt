@@ -1,0 +1,7 @@
+# Test parsing dates correctly
+# LAC @ KC - 2025-09-06
+https://www.espn.com/nfl/game/_/gameId/401772714
+# PIT @ NYJ - 2025-09-07
+https://www.espn.com/nfl/game/_/gameId/401772721
+# BAL @ BUF - 2025-09-08
+https://www.espn.com/nfl/game/_/gameId/401772918
