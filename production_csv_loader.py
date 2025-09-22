@@ -258,7 +258,7 @@ class ProductionCSVLoader:
         try:
             if stat_category == 'passing':
                 # Parse C/ATT format
-                c_att = row.get('c_att', '0/0')
+                c_att = row.get('c/att', '0/0')
                 if '/' in c_att:
                     parts = c_att.split('/')
                     stats['passing_completions'] = int(parts[0]) if parts[0].isdigit() else 0
