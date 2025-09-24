@@ -415,6 +415,68 @@ class ProductionCSVLoader:
             self.errors.append(f"Error processing {filename}: {e}")
             return 0
     
+    def update_game_completion_status(self, season: int = 2025, week: int = None):
+        """
+        Update game completion status based on loaded player statistics.
+        Marks games as completed if they have player statistics loaded.
+        """
+        try:
+            if week is not None:
+                # Update specific week
+                logger.info(f"Updating completion status for Season {season}, Week {week}")
+                self.cursor.execute("""
+                    UPDATE games
+                    SET completed = true,
+                        home_score = COALESCE(
+                            (SELECT SUM(pgs.kicking_points + pgs.rushing_touchdowns * 6 + pgs.receiving_touchdowns * 6 + pgs.passing_touchdowns * 6)
+                             FROM player_game_stats pgs
+                             JOIN players p ON pgs.player_id = p.id
+                             WHERE pgs.game_id = games.id AND p.team_id = games.home_team_id), 0),
+                        away_score = COALESCE(
+                            (SELECT SUM(pgs.kicking_points + pgs.rushing_touchdowns * 6 + pgs.receiving_touchdowns * 6 + pgs.passing_touchdowns * 6)
+                             FROM player_game_stats pgs
+                             JOIN players p ON pgs.player_id = p.id
+                             WHERE pgs.game_id = games.id AND p.team_id = games.away_team_id), 0)
+                    WHERE season = %s AND week = %s
+                      AND completed = false
+                      AND EXISTS (
+                          SELECT 1 FROM player_game_stats pgs
+                          WHERE pgs.game_id = games.id
+                      )
+                """, (season, week))
+            else:
+                # Update entire season
+                logger.info(f"Updating completion status for Season {season} (all weeks)")
+                self.cursor.execute("""
+                    UPDATE games
+                    SET completed = true,
+                        home_score = COALESCE(
+                            (SELECT SUM(pgs.kicking_points + pgs.rushing_touchdowns * 6 + pgs.receiving_touchdowns * 6 + pgs.passing_touchdowns * 6)
+                             FROM player_game_stats pgs
+                             JOIN players p ON pgs.player_id = p.id
+                             WHERE pgs.game_id = games.id AND p.team_id = games.home_team_id), 0),
+                        away_score = COALESCE(
+                            (SELECT SUM(pgs.kicking_points + pgs.rushing_touchdowns * 6 + pgs.receiving_touchdowns * 6 + pgs.passing_touchdowns * 6)
+                             FROM player_game_stats pgs
+                             JOIN players p ON pgs.player_id = p.id
+                             WHERE pgs.game_id = games.id AND p.team_id = games.away_team_id), 0)
+                    WHERE season = %s
+                      AND completed = false
+                      AND EXISTS (
+                          SELECT 1 FROM player_game_stats pgs
+                          WHERE pgs.game_id = games.id
+                      )
+                """, (season,))
+
+            updated_count = self.cursor.rowcount
+            logger.info(f"Updated completion status for {updated_count} games")
+
+            return updated_count
+
+        except Exception as e:
+            logger.error(f"Error updating game completion status: {e}")
+            return 0
+
     def load_boxscore_directory(self, boxscore_dir: str, season: int = 2025, week: int = None) -> Dict:
         """Load all CSV files from BOXSCORE_CSV directory"""
         boxscore_path = Path(boxscore_dir)
@@ -422,15 +484,15 @@ class ProductionCSVLoader:
 
         if not boxscore_path.exists():
             raise FileNotFoundError(f"BOXSCORE_CSV directory not found: {boxscore_path}")
-        
+
         # Find CSV files
         pattern = 'nfl_*.csv'
         if week is not None:
             pattern = f'nfl_*_week{week}_*.csv'
-        
+
         csv_files = list(boxscore_path.glob(pattern))
         logger.info(f"Found {len(csv_files)} CSV files in {boxscore_path}")
-        
+
         if not csv_files:
             return {
                 'success': False,
@@ -439,11 +501,11 @@ class ProductionCSVLoader:
                 'stats_loaded': 0,
                 'errors': []
             }
-        
+
         # Process files in transaction
         total_stats = 0
         processed_files = 0
-        
+
         try:
             for csv_file in csv_files:
                 records = self.process_csv_file(csv_file, season)
@@ -451,16 +513,22 @@ class ProductionCSVLoader:
                     total_stats += records
                     processed_files += 1
                     logger.info(f"Loaded {records} records from {csv_file.name}")
-            
-            # Commit transaction
+
+            # AUTOMATIC COMPLETION STATUS UPDATE
+            # Update game completion status based on loaded statistics
+            updated_games = self.update_game_completion_status(season, week)
+            logger.info(f"Automatically marked {updated_games} games as completed with calculated scores")
+
+            # Commit transaction (includes both stats and completion status updates)
             self.conn.commit()
-            
+
             logger.info(f"Successfully loaded {total_stats} total records from {processed_files} files")
-            
+
             return {
                 'success': True,
                 'files_processed': processed_files,
                 'stats_loaded': total_stats,
+                'games_completed': updated_games,
                 'errors': self.errors,
                 'season': season,
                 'week': week
@@ -512,7 +580,8 @@ def main():
                 print(f"   Week: {result['week']}")
             print(f"   Files processed: {result['files_processed']}")
             print(f"   Stats loaded: {result['stats_loaded']}")
-            
+            print(f"   Games marked completed: {result.get('games_completed', 0)}")
+
             if result['errors']:
                 print(f"   Warnings: {len(result['errors'])}")
                 for error in result['errors'][:5]:  # Show first 5 errors
